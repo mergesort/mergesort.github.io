@@ -45,6 +45,8 @@ p a:visited {
 .social_buttons {
 	list-style: none;
 	text-align: center;
+	padding: 0;
+	margin: 0 auto;
 }
 
 .social_button img {
@@ -67,7 +69,6 @@ li.social_button {
 .avatar img {
 	height: 150px;
 	width: 150px;
-
 }
 
 li.social_button, .avatar img {
