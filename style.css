@@ -5,15 +5,22 @@ body {
 h1, h2, h3, p {
 	text-align: center;
 	color: #ECF0F1;
-	font-family: "Avenir", "Verdana"
+	font-family: "Avenir", "Verdana";
+}
+
+h1, h2, h3 {
+	margin: 14px 0px 14px 0px;
 }
 
 p {
 	font-size: 18px;
 }
 
-p a {
-	/*font-weight: bold;*/
+h1, h2, h3, p a {
+	color: #ECF0F1;
+}
+
+h3 a:visited {
 	color: #ECF0F1;
 }
 
@@ -58,12 +65,11 @@ li.social_button {
 	display: inline-block;
 	height: 100px;
 	width: 100px;
-	margin: 20px;
+	margin: 10px 20px 0px 20px;
 }
 
 .avatar {
 	text-align: center;
-	margin: 0 auto;
 }
 
 .avatar img {
