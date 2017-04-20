@@ -2,13 +2,13 @@ body {
 	background: #0B87E0;
 }
 
-h1, h2, h3, p {
+h1, h2, h3, h4, p {
 	text-align: center;
 	color: #ECF0F1;
 	font-family: "Avenir", "Verdana";
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
 	margin: 14px 0px 14px 0px;
 }
 
@@ -16,7 +16,7 @@ p {
 	font-size: 18px;
 }
 
-h1, h2, h3, p a {
+h1, h2, h3, h4, p a {
 	color: #ECF0F1;
 }
 
