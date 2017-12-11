@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Years Resolution: 2014 Edition"
+title: New Years Resolution - 2014 Edition
 tags: [life-events, programming, go]
 ---
 
