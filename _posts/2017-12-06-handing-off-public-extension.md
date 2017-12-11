@@ -2,7 +2,7 @@
 layout: post
 title: Handing Off Public Extension
 description: >
-  This is an blog post originally by [Jasdev Singh](twitter.com/jasdev), on [jasdev.me](http://jasdev.me/handing-off-public-extension) that I'm re-posting here since it's tied to me taking over Public Extension.
+  This is a blog post by [Jasdev Singh](twitter.com/jasdev), originally published on [jasdev.me](http://jasdev.me/handing-off-public-extension). I'm re-posting here since it's directly tied to me taking over his project, Public Extension.
 tags: [swift, featured, life-events]
 ---
 
