@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en"><!--
+ __  __                __                                     __
+/\ \/\ \              /\ \             __                    /\ \
+\ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
+ \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
+  \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
+   \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
+    \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
+                /\___/                \ \____/
+                \/__/                  \/___/
+
+Powered by Hydejack v7.4.2 <https://qwtel.com/hydejack/>
+-->
+
+
+
+
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+  
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>Why My App Sucked And Why I Won’t Make The Same Mistakes Again | Fabisevi.ch</title>
+<meta property="og:title" content="Why My App Sucked And Why I Won’t Make The Same Mistakes Again" />
+<meta name="author" content="Joe Fabisevich" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="When you’re learning, it’s important to make mistakes, that’s how you learn. When you spend 10 hours looking for what is wrong, and it turns out you wrote if(x=1) when you meant if(x==1), I can guarantee you the next time you look for why a piece of code is magically broken, that will be the first thing you’ll check. If you do this enough times, you’ll find yourself fixing stupid mistakes before you even make them. That’s how you get good." />
+<meta property="og:description" content="When you’re learning, it’s important to make mistakes, that’s how you learn. When you spend 10 hours looking for what is wrong, and it turns out you wrote if(x=1) when you meant if(x==1), I can guarantee you the next time you look for why a piece of code is magically broken, that will be the first thing you’ll check. If you do this enough times, you’ll find yourself fixing stupid mistakes before you even make them. That’s how you get good." />
+<link rel="canonical" href="http://localhost:4000/2011/11/27/why-my-app-sucked-and-why-I-wont-wake-the-same-mistakes-again/" />
+<meta property="og:url" content="http://localhost:4000/2011/11/27/why-my-app-sucked-and-why-I-wont-wake-the-same-mistakes-again/" />
+<meta property="og:site_name" content="Fabisevi.ch" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2011-11-27T00:00:00-05:00" />
+<script type="application/ld+json">
+{"name":null,"description":"When you’re learning, it’s important to make mistakes, that’s how you learn. When you spend 10 hours looking for what is wrong, and it turns out you wrote if(x=1) when you meant if(x==1), I can guarantee you the next time you look for why a piece of code is magically broken, that will be the first thing you’ll check. If you do this enough times, you’ll find yourself fixing stupid mistakes before you even make them. That’s how you get good.","url":"http://localhost:4000/2011/11/27/why-my-app-sucked-and-why-I-wont-wake-the-same-mistakes-again/","headline":"Why My App Sucked And Why I Won’t Make The Same Mistakes Again","dateModified":"2011-11-27T00:00:00-05:00","datePublished":"2011-11-27T00:00:00-05:00","sameAs":null,"@type":"BlogPosting","author":{"@type":"Person","name":"Joe Fabisevich"},"image":null,"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon.png"},"name":"Joe Fabisevich"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2011/11/27/why-my-app-sucked-and-why-I-wont-wake-the-same-mistakes-again/"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  
+
+  
+    <meta name="keywords" content="">
+  
+
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Fabisevi.ch">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<meta name="application-name" content="Fabisevi.ch">
+<meta name="msapplication-config" content="/assets/ieconfig.xml">
+
+
+<meta name="theme-color" content="#22A7F0">
+
+
+<meta name="generator" content="Hydejack v7.4.2">
+
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Fabisevi.ch" />
+
+
+
+<link rel="alternate" href="http://localhost:4000/2011/11/27/why-my-app-sucked-and-why-I-wont-wake-the-same-mistakes-again/" hreflang="en">
+
+<link rel="shortcut icon" href="/assets/icons/favicon.ico">
+<link rel="apple-touch-icon" href="/assets/icons/icon.png">
+
+<link rel="manifest" href="/assets/manifest.json">
+
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+
+
+
+
+<link id="_katexJS"  rel="dns-prefetch" href="/assets/bower_components/katex/dist/katex.min.js">
+<link id="_katexCSS" rel="dns-prefetch" href="/assets/bower_components/katex/dist/katex.min.css">
+
+<script>
+  function stdOnEnd(n,e){n.onload=function(){this.onerror=this.onload=null,e(null,n)},n.onerror=function(){this.onerror=this.onload=null,e(new Error("Failed to load "+this.src),n)}}function ieOnEnd(n,e){n.onreadystatechange=function(){"complete"!=this.readyState&&"loaded"!=this.readyState||(this.onreadystatechange=null,e(null,n))}}window.setRelStylesheet=function(n){function e(){this.rel="stylesheet"}var o=document.getElementById(n);o.addEventListener?o.addEventListener("load",e,!1):o.onload=e},window._loaded=!1,window.loadJSDeferred=function(n,e){function o(){window._loaded=!0;var o=document.createElement("script");o.src=n,e&&(("onload"in o?stdOnEnd:ieOnEnd)(o,e),o.onload||stdOnEnd(o,e));var t=document.scripts[0];t.parentNode.insertBefore(o,t)}window._loaded?o():window.addEventListener?window.addEventListener("load",o,!1):window.onload=o};
+!function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);
+!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+
+  window._noPushState = false;
+  window._noDrawer = false;
+</script>
+
+<!--[if gt IE 8]><!---->
+
+
+<script>
+  WebFontConfig = {
+    
+    google: {
+      families: ['Roboto+Slab:700','Noto+Sans:400,400i,700,700i']
+    },
+    
+
+    custom: {
+      families: ['icomoon'],
+      urls: ['/assets/icomoon/style.css']
+    }
+  };
+  (function(d) {
+    var wf = d.createElement('script'), s = d.scripts[0];
+    wf.src = "/assets/bower_components/webfontloader/webfontloader.js";
+    s.parentNode.insertBefore(wf, s);
+  }(document));
+</script>
+<!--<![endif]-->
+
+<noscript>
+  
+  
+
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:700%7CNoto+Sans:400,400i,700,700i">
+    <style>
+      html { font-family: Noto Sans, Helvetica, Arial, sans-serif }
+      h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .heading { font-family: Roboto Slab, Helvetica, Arial, sans-serif }
+    </style>
+  
+
+  <link rel="stylesheet" href="/assets/icomoon/style.css">
+</noscript>
+
+<!--[if gt IE 8]><!---->
+
+
+
+  <link rel="stylesheet" href="/assets/css/hydejack-7.4.2.css">
+
+
+
+<style id="_pageStyle">
+
+.content a:not(.btn){color:#22A7F0;border-color:rgba(34,167,240,0.2)}.content a:not(.btn):hover{border-color:#22A7F0}:focus{outline-color:#22A7F0}.btn-primary{color:#fff;background-color:#22A7F0;border-color:#22A7F0}.btn-primary:focus,.btn-primary.focus{box-shadow:0 0 0 3px rgba(34,167,240,0.5)}.btn-primary:hover,.btn-primary.hover{color:#fff;background-color:#0f94dd;border-color:#0f94dd}.btn-primary:disabled,.btn-primary.disabled{color:#fff;background-color:#22A7F0;border-color:#22A7F0}.btn-primary:active,.btn-primary.active{color:#fff;background-color:#0f94dd;border-color:#0f94dd}::selection{color:#fff;background:#22A7F0}::-moz-selection{color:#fff;background:#22A7F0}
+
+</style>
+
+<!--<![endif]-->
+
+
+
+
+</head>
+
+<body>
+  <div class="navbar fixed-top">
+  <div class="content">
+    <div class="nav-btn-bar">
+      <span class="sr-only">Jump to:</span>
+      <a id="_menu" class="nav-btn no-hover" href="#_navigation">
+        <span class="sr-only">Navigation</span>
+        <span class="icon-menu"></span>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<hy-push-state>
+  <main
+    id="_main"
+    class="content fade-in layout-post"
+    role="main"
+    data-color="#22A7F0"
+    data-theme-color=""
+    
+      data-background="#16A085"
+      
+    
+    >
+    
+
+
+<article id="post-2011-11-27-why-my-app-sucked-and-why-I-wont-wake-the-same-mistakes-again" class="page post" role="article">
+  <header>
+    <h1 class="post-title">
+      
+        Why My App Sucked And Why I Won’t Make The Same Mistakes Again
+      
+    </h1>
+
+    <p class="post-date heading">
+      
+      <time datetime="2011-11-27T00:00:00-05:00">27 Nov 2011,</time>
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+tagged: <a href="/tag/programming/" class="flip-title">Programming</a>, <a href="/tag/ios/" class="flip-title">iOS</a>
+
+    </p>
+
+    
+
+
+
+  <div class="hr pb0"></div>
+
+
+  </header>
+
+  
+    <p>When you’re learning, it’s important to make mistakes, that’s how you learn. When you spend 10 hours looking for what is wrong, and it turns out you wrote <code class="highlighter-rouge">if(x=1)</code> when you meant <code class="highlighter-rouge">if(x==1)</code>, I can guarantee you the next time you look for why a piece of code is magically broken, that will be the first thing you’ll check. If you do this enough times, you’ll find yourself fixing stupid mistakes before you even make them. That’s how you get good.</p>
+
+<h3 id="preface">Preface</h3>
+
+<p>The most important thing for me over the last 2 years of learning iOS development has been getting things wrong. This piece is about everything I got wrong in developing my first app, <a href="http://www.hardballtimes.com/tht-live/introducing-batting-goggles-for-the-iphone-and-ipod-touch/">Batting Goggles</a>. It’s also about how fixed those mistakes.</p>
+
+<p>I’m no self-help guru, this is just my experience with mistake making. Only now do I even feel confident that I can go into making an app without screwing up the things I’ve messed up in the past. I can do this because I am very wary of repeating these mistakes. So without further ado, I present to you Batting Goggles by the numbers.</p>
+
+<h3 id="version-10">Version 1.0</h3>
+
+<p>I finished Batting Goggles and I felt an immediate sense of accomplishment. It was the first thing I had ever truly created from scratch. The idea was <a href="https://twitter.com/sabometrics">Craig’s</a> (my partner in app development), the execution was all mine. At first we weren’t on the same page of how to make what we wanted to make, but once we came up with the interface, it was smooth sailing. The app was very bare, but did everything that we had wanted it to do. You could find a player and pull up his heat map and find his stats for the last season. Then Craig asked me to add a feature. He wanted to be able to set Favorites, and a lineup for each of the current teams playing. This would make it easier to navigate through the app, instead of having to go through thousands of players every time you wanted to look for someone. (There was a search, but the point still holds).</p>
+
+<h3 id="version-11">Version 1.1</h3>
+
+<p>And with a lot of effort, I added a tab bar to the bottom of the screen with items for favorites and lineups. The reason it was so tough was because I had 1 view controller and a lot of booleans to check on the current status of the app. This was not a good idea and will never be one. Anyone who does this, please heed these words… don’t ever do anything that stupid in any aspect of your life. The amount of code that went into it was tremendous, but when it was done, I decided I would take a nice break from working on the app. Then the bugfixes came.</p>
+
+<h3 id="versions-12-13">Versions 1.2-1.3</h3>
+
+<p>The break didn’t really happen, but eventually I got the bugs fixed up. Apple had just released the iPhone 3G[S] (remember the box around the [S]?). They tested it on that the next time I wanted to submit, and for some reason it didn’t work. My guess is they actually hadn’t been doing a great job of testing it before, because the bugs that were added were pretty damn noticeable when you used the app when you switched between screens quickly. I had not been testing it like that, just how I would use it, so I didn’t notice it being broken. The lesson I learned: Test for even the oddest and most accidental ways to use an app. There are infinite ways to do things, and your way is only right to you.</p>
+
+<h3 id="version-15">Version 1.5</h3>
+
+<p>This was the last release for the 2010 season. We got a lot of bugs out of the way, and nothing too major feature-wise, so we called it a day. People were still downloading, but some were complaining that the stats in the app were out of date. This was true, we had no way of updating the numbers in the app, so they were based off the prior season which had ended 365 days earlier. At this point I resolved to add a lot of features to version 2.0 and turn those frowns upside down. It was November, and the new season started in April, so we had hoped to get it out in early March right in time for the baseball season. As it turns out, I wasn’t so good at estimating.</p>
+
+<h3 id="the-offseason">The Offseason</h3>
+
+<p>Craig and I talked over the features we wanted, and we decided that the first thing to tackle would be live stats. We wanted to make sure that people couldn’t complain about that anymore, and we figured out a pretty simple solution involving some Python scripts and Dropbox. We also wanted to expand the data all the way back to when MLB started keeping track of this info, so now we would have 3 years of data instead of 1. Then I found an app that I liked, and it had a baseball card view, so I added that to the app. I wanted to make Goggles multi-dimensional, instead of just providing heat maps. With this, you’d be able to just use our app as your go to for your daily baseball stats questions. I then decided to add on the side of the list, markers denoting what letter of the alphabet the person’s last name was, so you could navigate far quicker through the player list, much like you see in the Contacts app. From using Goggles I realized that clearing and editing the lists users made was a pain, so I was going to make that experience more in line with Apple’s standard apps.</p>
+
+<h3 id="version-20">Version 2.0</h3>
+
+<p>As I was getting close to finishing version 2.0, I realized that I had done everything that involved the iPhone wrong. I didn’t understand Model-View-Controller. I used mismatching bracket/dot syntax which made it incredibly confusing to read. I’m pretty sure that some of the code I had written just worked by sheer witchcraft and backdoor deals with the devil. When I couldn’t figure out how to integrate some of the new features I was hoping to add, I realized it was time to tear it all down and rewrite it. I rewrote Batting Goggles over the course of a week. It didn’t take too long because the thought behind the original code was right, just often redundant and convoluted. I was able to bring in all the features that I had hoped to, and felt a lot better about my app. In all likelihood no one else even cared or noticed. When I released it I felt that same personal accomplishment, because really, I had made 2 apps, a broken one, and a better one. It is still not perfect, but it is actually decipherable now, and much more flexible if/when I want to add features or fix things.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>I made lots and lots of mistakes, but it’s ok because it really was my first big project. One mistake that I failed to mention was that when I released version 2.0, it was August, and the baseball season was almost over. I felt bad for a bit to the customers who paid for it and were essentially beta testers for a year and change, and had no use for the app for almost the entire 2011 season. All that personal accountability has made me far more detail oriented, and anal-retentive about releasing sloppy work. Since then I have released 3 apps, all of which I can <a href="https://fabisevi.ch/#work">proudly point to</a>. I have another one coming out very soon, hopefully it’ll be more of a homerun than Batting Goggles.</p>
+
+  
+</article>
+
+
+<hr class="dingbat related" />
+
+
+
+
+  
+     
+
+
+  <aside class="about related mt4 mb4" role="complementary">
+    
+    
+
+<div class="author mt4">
+  
+
+  
+    
+  
+
+  
+
+  
+  <img
+    src="https://fabisevi.ch/assets/img/256x256.jpg
+"
+    class="avatar"
+    alt="Joe Fabisevich"
+    srcset="https://fabisevi.ch/assets/img/128x128.jpg
+ 1x,https://fabisevi.ch/assets/img/256x256.jpg
+ 2x"
+    
+    
+  />
+
+
+  
+
+  
+  
+  <h2  class="page-title hr">
+    About
+  </h2>
+
+  <p>Joe Fabisevich is an iOS developer and designer.</p>
+
+
+  <div class="sidebar-social">
+    <span class="sr-only">Social:</span>
+<ul>
+  
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://twitter.com/mergesort" title="Twitter" class="no-mark-external">
+    <span class="icon-twitter"></span>
+    <span class="sr-only">Twitter</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://github.com/mergesort" title="GitHub" class="no-mark-external">
+    <span class="icon-github"></span>
+    <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="mailto:ireadeveryemail@fabisevi.ch" title="Email" class="no-mark-external">
+    <span class="icon-mail"></span>
+    <span class="sr-only">Email</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://instagram.com/gifthecat" title="Instagram" class="no-mark-external">
+    <span class="icon-instagram"></span>
+    <span class="sr-only">Instagram</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://www.linkedin.com/in/devjoe" title="LinkedIn" class="no-mark-external">
+    <span class="icon-linkedin2"></span>
+    <span class="sr-only">LinkedIn</span>
+  </a>
+</li>
+
+  
+</ul>
+
+  </div>
+</div>
+
+  </aside>
+
+
+  
+
+  
+  
+
+  
+    
+
+
+
+
+<aside class="related mb4" role="complementary">
+  <h2 class="hr">Related Posts</h2>
+
+  <ul class="related-posts">
+    
+      
+
+
+<li>
+  <a href="/2017/04/02/debugging-shortcuts-for-uikeycommand/" class="h4 flip-title">
+    <span>Debugging shortcuts for UIKeyCommand</span>
+  </a>
+  <time class="heading faded fine" datetime="2017-04-02T00:00:00-04:00">02 Apr 2017</time>
+</li>
+
+    
+      
+
+
+<li>
+  <a href="/2016/06/10/wwdc-2016-my-fantasy-edition/" class="h4 flip-title">
+    <span>WWDC 2016 — My Fantasy Edition</span>
+  </a>
+  <time class="heading faded fine" datetime="2016-06-10T00:00:00-04:00">10 Jun 2016</time>
+</li>
+
+    
+      
+
+
+<li>
+  <a href="/2016/05/25/the-expressive-nature-of-swift/" class="h4 flip-title">
+    <span>The Expressive Nature of Swift</span>
+  </a>
+  <time class="heading faded fine" datetime="2016-05-25T00:00:00-04:00">25 May 2016</time>
+</li>
+
+    
+  </ul>
+</aside>
+
+
+  
+
+
+    
+
+
+    <footer role="contentinfo">
+  <hr/>
+  
+  <p><small class="copyright">© 2018 and forever. All rights reserved.
+</small></p>
+  
+  <hr class="sr-only"/>
+</footer>
+
+  </main>
+  <hy-drawer>
+  <header id="_sidebar" class="sidebar" role="banner">
+    
+    <div class="sidebar-bg " style="background:#16A085"></div>
+
+    <div class="sidebar-sticky">
+      <div class="sidebar-about">
+        <h2 class="h1"><a href="/">Fabisevi.ch</a></h2>
+        
+        
+          <p class="fine">
+            iOS Developer &amp; Design Contractor building high quality software for myself and others at <a href="https://snarkbots.com">Snarkbots Inc</a>.
+
+          </p>
+        
+      </div>
+
+      <nav class="sidebar-nav heading" role="navigation">
+        <span class="sr-only">Navigation:</span>
+<ul>
+  
+  
+  
+  
+    
+      <li>
+        <a
+          id="_navigation"
+          href="/tag/featured-posts/"
+          class="sidebar-nav-item"
+          
+          >
+          Featured
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/about/"
+          class="sidebar-nav-item"
+          
+          >
+          About
+        </a>
+      </li>
+    
+  
+</ul>
+
+      </nav>
+
+      
+
+      <div class="sidebar-social">
+        <span class="sr-only">Social:</span>
+<ul>
+  
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://twitter.com/mergesort" title="Twitter" class="no-mark-external">
+    <span class="icon-twitter"></span>
+    <span class="sr-only">Twitter</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://github.com/mergesort" title="GitHub" class="no-mark-external">
+    <span class="icon-github"></span>
+    <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="mailto:ireadeveryemail@fabisevi.ch" title="Email" class="no-mark-external">
+    <span class="icon-mail"></span>
+    <span class="sr-only">Email</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://instagram.com/gifthecat" title="Instagram" class="no-mark-external">
+    <span class="icon-instagram"></span>
+    <span class="sr-only">Instagram</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://www.linkedin.com/in/devjoe" title="LinkedIn" class="no-mark-external">
+    <span class="icon-linkedin2"></span>
+    <span class="sr-only">LinkedIn</span>
+  </a>
+</li>
+
+  
+</ul>
+
+      </div>
+    </div>
+  </header>
+</hy-drawer>
+
+</hy-push-state>
+
+
+  
+
+  <!--[if gt IE 9]><!---->
+  
+  <script>loadJSDeferred('/assets/js/hydejack-7.4.2.js');</script>
+  
+  <!--<![endif]-->
+
+
+
+  
+<hr class="sr-only"/>
+<h2 class="sr-only">Templates (for web app):</h2>
+
+<template id="_animation-template">
+  <div class="animation-main fixed-top">
+    <div class="content">
+      <div class="page"></div>
+    </div>
+  </div>
+</template>
+
+<template id="_loading-template">
+  <div class="loading">
+    <span class="sr-only">Loading…</span>
+    <span class="icon-cog"></span>
+  </div>
+</template>
+
+<template id="_error-template">
+  <div class="page">
+    <h1 class="page-title">Error</h1>
+    
+    
+    <p class="lead">
+      Sorry, an error occurred while loading <a class="this-link" href=""></a>.
+
+    </p>
+  </div>
+</template>
+
+<template id="_back-template">
+  <a id="_back" class="back nav-btn no-hover">
+    <span class="sr-only">Back</span>
+    <span class="icon-arrow-left2"></span>
+  </a>
+</template>
+
+
+
+</body>
+</html>

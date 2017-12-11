@@ -1,0 +1,11 @@
+---
+layout: post
+title: An App Store Retrospective
+tags: [apple, iOS]
+---
+
+Four years ago today, the Apple App Store launched, changing the face of software distribution. Anyone from a curious 13-year old to a grizzled developer who lived through learning Pascal can release an app and hope to strike gold. Even Apple’s own operating systems are distributed with this model now. I distinctly remember my first thoughts on the matter. I was standing in line for the iPhone 3G, not for myself, but for a coworker who I had convinced to upgrade (so I could get his original iPhone). Imagine, the internet in my pocket, anywhere I went. The future had arrived for me. Four years later, this has become commonplace. But I do remember being asked on that line, “so what do you think about this app store?” by a curious line stander. I didn’t have much background actually developing software yet, so I heartily told him “Eh, you can already download apps from Installer, who cares where you get it from?” (Sidenote: Remember Installer?)
+
+Well, as it turns out, it was kinda a big deal. Kinda, sorta, the biggest deal relating to the economics of software in years. It singlehandedly took away the insane console-model, made purchasing software seamless, created the casual gaming genre, and gave hope to thousands of indie developers. I won’t go into too much detail, but companies like EA now focus a great deal of effort on these tiny computers that pose as phones.
+
+I also learned so much by tinkering away, writing bad code for the iPhone, and eventually publishing my own apps. So last but not least, you can thank Apple for making a platform compelling enough to inspire young minds to play around with software development, and not sit in the doldrums making software for a faceless financial institution. I can’t imagine where I would be if I had to work for a bank. Instead, I play with an iPhone or Android phone all day. I'm constantly intrigued to find out what the newest goodies jQuery has to offer (nothing), if anything has come about in HTML5 (eventually the standards body will get to it), or just ponder what the next five years of technology will bring us.
