@@ -4,6 +4,8 @@ title: The Company I’m Watching in 2014
 tags: [industry]
 ---
 
+There's one company I've got my eye on in this new year. I don't necessarily expect them to succeed or fail, but do think that this will be a pivotal year in their history.
+
 # Microsoft
 
 2014 is shaping up to be a make or break year for Redmond’s finest. The tent poles of the company being attacked on all fronts, like the Roman Empire. From the low end, from the high end, in casual spheres, and business, Microsoft is on high alert. But have they sunk too low to be picked back up? To answer that we have to look at what Microsoft has to offer.
