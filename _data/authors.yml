@@ -15,8 +15,8 @@ author1:
     path:            https://fabisevi.ch/assets/img/256x256.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://fabisevi.ch/assets/img/128x128.jpg
-      2x:            https://fabisevi.ch/assets/img/256x256.jpg
+      1x:            https://fabisevi.ch/assets/img/sombrero-128x128.jpg
+      2x:            https://fabisevi.ch/assets/img/sombrero-256x256.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
