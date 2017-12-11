@@ -15,10 +15,10 @@ google-plus:
 google-drive:
   name: Google Drive
   icon: icon-google-drive
-facebook:
-  name: Facebook
-  icon: icon-facebook
-  prepend: 'https://facebook.com/'
+pinboard:
+  name: Pinboard
+  icon: icon-delicious
+  prepend: 'https://pinboard.in'
 instagram:
   name: Instagram
   icon: icon-instagram
@@ -53,7 +53,7 @@ sina-weibo:
   icon: icon-sina-weibo
 rss:
   name: RSS
-  icon: icon-rss2
+  icon: icon-rss
 youtube:
   name: YouTube
   icon: icon-youtube

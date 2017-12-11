@@ -1,0 +1,55 @@
+
+://keybase.io/mergesort
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://fabisevi.ch
+  * I am mergesort (https://keybase.io/mergesort) on keybase.
+  * I have a public key ASBrCbe4NtxBhbKR8uhxRvW3Eti48la91J-Biph4klTPNAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d4986337522cfed4176262b01e4865f3aa05e6b824824ccfa8f8f41f0c7538170a",
+            "host": "keybase.io",
+            "kid": "01206b09b7b836dc4185b291f2e87146f5b712d8b8f256bdd49f818a98789254cf340a",
+            "uid": "c49cc8e423817e492389a8f0bb333800",
+            "username": "mergesort"
+        },
+        "service": {
+            "hostname": "fabisevi.ch",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1481591554,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1481591543,
+        "hash": "9cf296d1d775f2eed15115f5a0313e8c3ccdcd36d2462116ada62df60a30ac928b02b7a2ee6d32b245c12038fafd71c97afee9f4eb32b2975a30c081cd4958ab",
+        "seqno": 758843
+    },
+    "prev": "64077da36e62267b65f5bd67e3c46b88039665fcbd301b830aea5af152348118",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgawm3uDbcQYWykfLocUb1txLYuPJWvdSfgYqYeJJUzzQKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZDQ5ODYzMzc1MjJjZmVkNDE3NjI2MmIwMWU0ODY1ZjNhYTA1ZTZiODI0ODI0Y2NmYThmOGY0MWYwYzc1MzgxNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmIwOWI3YjgzNmRjNDE4NWIyOTFmMmU4NzE0NmY1YjcxMmQ4YjhmMjU2YmRkNDlmODE4YTk4Nzg5MjU0Y2YzNDBhIiwidWlkIjoiYzQ5Y2M4ZTQyMzgxN2U0OTIzODlhOGYwYmIzMzM4MDAiLCJ1c2VybmFtZSI6Im1lcmdlc29ydCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZmFiaXNldmkuY2giLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDgxNTkxNTU0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODE1OTE1NDMsImhhc2giOiI5Y2YyOTZkMWQ3NzVmMmVlZDE1MTE1ZjVhMDMxM2U4YzNjY2RjZDM2ZDI0NjIxMTZhZGE2MmRmNjBhMzBhYzkyOGIwMmI3YTJlZTZkMzJiMjQ1YzEyMDM4ZmFmZDcxYzk3YWZlZTlmNGViMzJiMjk3NWEzMGMwODFjZDQ5NThhYiIsInNlcW5vIjo3NTg4NDN9LCJwcmV2IjoiNjQwNzdkYTM2ZTYyMjY3YjY1ZjViZDY3ZTNjNDZiODgwMzk2NjVmY2JkMzAxYjgzMGFlYTVhZjE1MjM0ODExOCIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAW9XLCan49Je6Bts2cO6bzStI3TgyM7PMHJlAmmzPO4/DlTiG/bEa+xHNA64wC6D4DjQk+ifn9MW0A/TPij6MIqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgLCOb9wH2ySDkZXycDO5k3Wm3bkAyvEb3d7TcEbKveuijdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mergesort
+
+==================================================================
+
