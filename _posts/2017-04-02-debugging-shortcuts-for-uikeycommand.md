@@ -4,7 +4,7 @@ title: Debugging shortcuts for UIKeyCommand
 tags: [swift, programming, iOS]
 ---
 
-I recently re-discovered `UIKeyCommand` while listening to [Caleb Davenport](undefined)’s, [podcast](https://overcast.fm/+GuhgtcBa4), Runtime. He’s also got a [blog post](https://calebd.me/posts/uikeycommand) which shows you exactly how simple it is to create `UIKeyCommand` shortcuts for your app.
+I recently re-discovered `UIKeyCommand` while listening to [Caleb Davenport](https://www.twitter.com/calebd)’s, [podcast](https://overcast.fm/+GuhgtcBa4), Runtime. He’s also got a [blog post](https://calebd.me/posts/uikeycommand) which shows you exactly how simple it is to create `UIKeyCommand` shortcuts for your app.
 
 After reading that, I decided that it would be neat to implement them across my app, so I could also start navigating around my UI with lightning speed while I’m debugging in the simulator. I quickly realized that by using Swift extensions, I could automatically get these behaviors for free throughout our entire app.
 
