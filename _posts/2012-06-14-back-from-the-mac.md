@@ -4,7 +4,7 @@ title: Back from the Mac
 tags: [iOS, apple]
 ---
 
-iOS 6 ends up bringing a lot of interesting new features to the regular user, and looking over the API differences, not a lot on the developer side of things. iOS 5 was a gigantic leap for developers, starting with ARC, Storyboards, and a bajillion<a href="#-thats-a-technical-term-for-all-you-non-tech-savvy-folk">¹</a> APIs opened up. I’m willing to bet that this is becoming Apple’s calling card. One on, one off, is now to be prevalent in designing both hardware and software.
+iOS 6 ends up bringing a lot of interesting new features to the regular user, and looking over the API differences, not a lot on the developer side of things. iOS 5 was a gigantic leap for developers, starting with ARC, Storyboards, and a bajillion[^1] APIs opened up. I’m willing to bet that this is becoming Apple’s calling card. One on, one off, is now to be prevalent in designing both hardware and software.
 
 A pattern is emerging that makes it seem pretty likely:
 
@@ -20,6 +20,4 @@ First you make something new, innovative, bold. Then you take the time to add fi
 
 That’s what Apple have defined as their new strategy. Release and refine.
 
----
-
-#### ¹ That’s a technical term for all you non-tech savvy folk.
+[^1]: That’s a technical term for all you non-tech savvy folk.
