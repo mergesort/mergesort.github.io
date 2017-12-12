@@ -8,7 +8,7 @@ Last year I spent a lot of time gathering pieces, and in 2014 I'd like to put th
 
 ### More server-side programming
 
-I’ve been doing iOS now for almost 5 years now. I always want to work on the whole stack, but I never have found myself drawn to a language that’s useful on the server. Recently I’ve fallen in love with the power and design of Go. Take what Ruby [offers](http://rubyonrails.org) you, with [web frameworks](http://www.sinatrarb.com), a [driven community](https://groups.google.com/forum/#!forum/golang-nuts), and the [clarity](https://blog.startifact.com/posts/older/what-is-pythonic.html) of Python.[^1] Now add static typing, with [Robert Griesemer](https://en.wikipedia.org/wiki/Robert_Griesemer), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), and [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) behind it, and you have Go.
+I’ve been doing iOS now for almost 5 years now. I always want to work on the whole stack, but I never have found myself drawn to a language that’s useful on the server. Recently I’ve fallen in love with the power and design of Go. Take what Ruby [offers](http://rubyonrails.org) you, with [web frameworks](http://www.sinatrarb.com), a [driven community](https://groups.google.com/forum/#!forum/golang-nuts), and the [clarity](https://blog.startifact.com/posts/older/what-is-pythonic.html) of Python.[^1] Now add static typing, with [Robert Griesemer](https://research.google.com/pubs/author96.html), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), and [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) behind it, and you have Go.
 
 ### More design
 
