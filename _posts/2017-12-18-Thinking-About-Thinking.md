@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thinking About Thinking
-tags: [featured, productivity, society]
+tags: [featured, productivity, society] 
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Two meta-skills that help a programmer grow more than just practicing their coding. Thinking about thinking, and focusing on focusing.</p>&mdash; Joe Fabisevich 🐶🐳™ (@mergesort) <a href="https://twitter.com/mergesort/status/890204173920329728">July 26, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
