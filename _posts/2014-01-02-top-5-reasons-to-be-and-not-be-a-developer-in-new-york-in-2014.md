@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Top 5 Reasons to be and not be a developer in New York in 2014
+title: Five Reasons to be and not be a developer in New York in 2014
 tags: [industry]
 ---
 
-## The Good
+### The Good
 
 #### 1. You can’t just get funding for any old idea.
 
@@ -26,7 +26,7 @@ Snow. It’s really pretty. I’ve heard people out in the bay say they miss sea
 
 Over the last few years, I’ve watched the tech community grow from the same few people at most meetups, to hundreds of meetups with just a few familiar faces at each.
 
-## The Bad
+### The Bad
 
 #### 1. You can’t just get funding for any old idea.
 
