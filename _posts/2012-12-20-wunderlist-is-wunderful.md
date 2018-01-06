@@ -15,4 +15,3 @@ This week, a product that I hold close to my heart [Wunderlist](https://www.wund
 The fact that Apple controls iOS so tightly means that Reminders, their own app, can get updates from other devices via iCloud when you’re not in the app. It a magical (yes, magical… ok, seamless) experience to take a note on your iPhone, and open your Mac four days later knowing that your change will be there. In fact, OS X 10.8 introduced a feature where a sleeping computer can download updates without even opening the lid (if your Mac is plugged into an outlet). I often jot down reminders on the subway and then open my computer the next day to be told of what I’ve surely forgotten to do.
 
 It just sucks that there’s nothing 6Wunderkinder, and other developers can do to make their product that awesome.
-

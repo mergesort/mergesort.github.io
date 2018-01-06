@@ -11,4 +11,3 @@ The first hour was uneventful, mostly due to the sub-par script, but then the cr
 After a relatively quiet second hour, it seems Hezekiah was not entertained, as he began to snore after leaning back some more. It was good that he woke up to see the end of the movie, or the story might have gotten lost on him.
 
 Oh yeah, Spider-man, the action scenes were pretty good, the dialogue was really bad, and it felt like there were weird plot points missing, but if you’re not too tied to $15 and like Marvel movies, I’d go see it.
-
