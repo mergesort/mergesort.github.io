@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Top 5 Reasons to be and not be a developer in New York in 2014
+title: Five Reasons to be and not be a developer in New York in 2014
 tags: [industry]
 ---
+
+# Five Reasons to be and not be a developer in New York in 2014
 
 ## The Good
 
