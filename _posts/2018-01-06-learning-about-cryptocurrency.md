@@ -12,7 +12,7 @@ So you're looking to learn a little something about how these new technologies w
 
 If you want to learn about the blockchain, I would start [here](https://anders.com/blockchain/). The video is only 17 minutes, and yet covers everything you need to know about how a blockchain is built and works.
 
-If you want to learn about Bitcoin, I would start [here](https://twit.tv/shows/security-now/episodes/287), at the time marker 41:55. Everything I learned about Bitcoin in this episode of Security Now still holds up today, 6 years later. Steve Gibson was very early in understanding what makes the protocol interesting, along with it's upsides and downsides. The only real thing that's changed since this was recording is the addition of exchanges like [Coinbase](https://www.coinbase.com), [Gdax](https://www.gdax.com), [Kraken](https://www.kraken.com), and others into the marketplace, as a way to centralize trading.
+If you want to learn about Bitcoin, I would start [here](https://twit.tv/shows/security-now/episodes/287), at the time marker 41:55. Everything I learned about Bitcoin in this episode of Security Now still holds up today, six years later. Steve Gibson was very early in understanding what makes the protocol interesting, along with its upsides and downsides. The only real thing that's changed since this was recording is the addition of exchanges like [Coinbase](https://www.coinbase.com), [Gdax](https://www.gdax.com), [Kraken](https://www.kraken.com), and others into the marketplace, as a way to centralize trading.
 
 ---
 
