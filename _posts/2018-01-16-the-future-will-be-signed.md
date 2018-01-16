@@ -6,8 +6,6 @@ tags: [society, industry, featured]
 
 Cryptography is becoming more important in our every day lives and there’s no way around it. Whether it’s the calls from governments to [ban encryption](https://en.wikipedia.org/wiki/Encryption_ban_proposal_in_the_United_Kingdom), come up with [“responsible encryption”](https://www.eff.org/deeplinks/2017/10/deputy-attorney-general-rosensteins-responsible-encryption-demand-bad-and-he), or to [violate norms and laws](https://www.npr.org/sections/thetwo-way/2017/06/22/533977417/trump-sued-for-allegedly-violating-presidential-records-act), cryptography is playing a role in shaping our society. I’d like to approach the role of cryptography from the other perspective though, from the side of helping us prove facts about the world around us.
 
-We are entering a time where we are capable of "creating" facts. While we may not be able to create facts, we are able to create evidence for stories and narratives that people will believe, and there is a very fine line between the two.
-
 We are entering an era where technology empowers people to create artificial evidence for stories and narratives. While we can’t yet create facts, we’re approaching a point where artificial evidence looks very believable.
 
 - Nvidia is using machine learning to generate [fake pictures of humans](https://www.nytimes.com/interactive/2018/01/02/technology/ai-generated-photos.html) that seem so real that humans can’t tell they’re fake.
