@@ -21,7 +21,7 @@ I'm fluent in Swift (love it), Objective-C, Java, and always exploring new langu
 
 As a senior developer, I devote time to help growing developers in our industry. If you'd like some advice or guidance, email me. If I have free time coming up, donate $20 to a good cause if you can afford it ([my recommendation](http://www.blackgirlscode.com/)), and we can setup a video chat, or lunch if you're in NYC and would like to treat me. 🙂
 
-In the mean time, [here](http://feeds.pinboard.in/u:mergesort/t:learn-programming/) is an ever updating list of articles I've found incredibly helpful in my growth as a programmer. You can join others who subscribe to them [via email](https://mailchi.mp/7e97c77b67fc/programmatic-learning), and keep upping your knowledge. And of course there's an [RSS](http://feeds.pinboard.in/rss/u:mergesort/t:learn-programming/) feed available too.
+In the mean time, you can check out the [newsletters](https://fabisevi.ch/newsletters) I maintain to help others learn and grow. There's one for [Swift](https://www.getrevue.co/profile/publicextension) fans, one which is an [ever updating list of articles](https://mailchi.mp/f0df17ad2511/programmatic-learning) I've found incredibly helpful in my growth as a programmer, and a way to keep up with [this blog](https://mailchi.mp/3237be1819ae/fabisevich-blog-posts). Full write-ups are available [here](https://fabisevi.ch/newsletters).
 
 ---
 
