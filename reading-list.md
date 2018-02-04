@@ -7,7 +7,9 @@ order: 5
 
 ---
 
-What I've been reading (or listening to) in chronological order. Position on this list serves no relation to how great I think a book is. 🙂
+What I've been reading in chronological order. Position on this list serves no relation to how great I think a book is, but **bolded** titles are books I highly recommended reading.
+
+---
 
 - [Machine Learning: The New AI](https://www.amazon.com/gp/product/0262529513/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0262529513&linkId=092835958c0a7e15d2f1c149c8f1c4e5)
 
@@ -36,7 +38,3 @@ What I've been reading (or listening to) in chronological order. Position on thi
 - [Liar's Poker](https://www.amazon.com/gp/product/039333869X/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=039333869X&linkId=06d049caa157b59916da15e68a6a8d4d)
 
 - **[Moneyball: The Art of Winning an Unfair Game](https://www.amazon.com/gp/product/0393324818/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393324818&linkId=af2e542e06dd348706233139888f5183)**
-
----
-
-`*` Bolded books indicate titles I highly recommend reading.
