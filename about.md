@@ -7,7 +7,7 @@ order: 3
 
 ---
 
-If you've stumbled across my page, there's a good chance you're looking for a mobile developer (or you know, I've sent you here). 👋 Here's a [resume](https://fabisevi.ch/assets/Joe-Fabisevich-Resume.pdf) for you. 
+If you've stumbled across my page, there's a good chance you're looking for a mobile developer (or you know, I've sent you here). 👋 Here's a [resume](https://fabisevi.ch/assets/Joe-Fabisevich--Resume.pdf) for you. 
 
 I've worked on a lot of great products, at a lot of great places, with a lot of great people. It's been great. Most recently I was working at [Timehop](https://itunes.apple.com/us/app/timehop/id569077959) and [Betaworks](https://betaworks.com/), [Bondsy](https://bit.ly/the-verge-bondsy), and [Viggle](https://viggle.com/).
 
