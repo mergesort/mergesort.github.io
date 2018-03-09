@@ -9,9 +9,11 @@ order: 3
 
 If you've stumbled across my page, there's a good chance you're looking for a mobile developer (or you know, I've sent you here). 👋 Here's a [resume](https://fabisevi.ch/assets/Joe-Fabisevich-Resume.pdf) for you. 
 
-I've worked on a lot of great products, at a lot of great places, with a lot of great people. It's been great. Most recently I was working at [Timehop](https://itunes.apple.com/us/app/timehop/id569077959) and [Betaworks](https://betaworks.com/).
+I've worked on a lot of great products, at a lot of great places, with a lot of great people. It's been great. Most recently I was working at [Timehop](https://itunes.apple.com/us/app/timehop/id569077959) and [Betaworks](https://betaworks.com/), [Bondsy](https://bit.ly/the-verge-bondsy), and [Viggle](https://viggle.com/).
 
-I co-founded and built [Picks](https://itspicks.com/), and before that I was doing interesting work at [Bitly](https://bitly.com/), [NYPL Labs](https://www.nypl.org/collections/labs), [Bondsy](https://bit.ly/the-verge-bondsy), and [Viggle](https://viggle.com/).
+I co-founded and built [Picks](https://web.archive.org/web/20160205044923/https://www.getpicks.me/).
+
+I've also consulted with some great companies as well. Some of my favorites included [Teachable](teachable.com), [Tia](asktia.com), [Bitly](https://bitly.com/), and [NYPL Labs](https://www.nypl.org/collections/labs).
 
 ---
 
