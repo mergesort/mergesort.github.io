@@ -11,6 +11,10 @@ What I've been reading in chronological order. Position on this list serves no r
 
 ---
 
+- [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0262529513&linkId=092835958c0a7e15d2f1c149c8f1c4e5)
+
+- [A Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?ie=UTF8&tag=picks06-20&camp=1789&linkCode=as2&creativeASIN=0262529513&linkId=092835958c0a7e15d2f1c149c8f1c4e5)
+
 - [Machine Learning: The New AI](https://www.amazon.com/gp/product/0262529513/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0262529513&linkId=092835958c0a7e15d2f1c149c8f1c4e5)
 
 - **[The Hard Thing About Hard Things](https://www.amazon.com/gp/product/0062273205/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062273205&linkId=f8b0ca9452811e9c512295470b3cba4f)**
