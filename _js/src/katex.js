@@ -41,7 +41,7 @@ function renderKatex(el, tex) {
     const prev = el.previousElementSibling;
     replaceMathBlock(el, tex);
     if (prev && prev.classList && prev.classList.contains('MathJax_Preview')) {
-      prev::hide();
+      hide.call(prev);
     }
   } catch (e) {
     // TODO: remove in production builds?
@@ -57,7 +57,7 @@ function readTexSource(el) {
 
 function changeContent(mathBlocks) {
   // kramdown generates script tags with type "math/tex"
-  mathBlocks::forEach((script) => {
+  forEach.call(mathBlocks, (script) => {
     const tex = readTexSource(script);
     renderKatex(script, tex);
   });
@@ -70,11 +70,11 @@ export default function upgradeMathBlocks() {
       if (katexJSLoaded && katexCSSLoaded) {
         changeContent(mathBlocks);
       } else {
-        loadJSDeferred(document.getElementById('_katexJS').href, () => {
+        window.loadJSDeferred(document.getElementById('_katexJS').href, () => {
           katexJSLoaded = true;
           if (katexJSLoaded && katexCSSLoaded) upgradeMathBlocks();
         });
-        loadCSS(document.getElementById('_katexCSS').href).onload = () => {
+        window.loadCSS(document.getElementById('_katexCSS').href).onload = () => {
           katexCSSLoaded = true;
           if (katexJSLoaded && katexCSSLoaded) upgradeMathBlocks();
         };
