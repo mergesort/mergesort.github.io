@@ -11,6 +11,8 @@ What I've been reading in chronological order. Position on this list serves no r
 
 ---
 
+- **[Nudge](https://amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X?tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0262529513&linkId=092835958c0a7e15d2f1c149c8f1c4e5)**
+
 - **[Algorithms To Live By](https://amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=sr_1_2?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0262529513&linkId=092835958c0a7e15d2f1c149c8f1c4e5)**
 
 - [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0262529513&linkId=092835958c0a7e15d2f1c149c8f1c4e5)
