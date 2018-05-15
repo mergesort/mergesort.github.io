@@ -55,4 +55,6 @@ What I've been reading in chronological order. Position on this list serves no r
 
 - [Liar's Poker](https://www.amazon.com/gp/product/039333869X/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=039333869X&linkId=06d049caa157b59916da15e68a6a8d4d)
 
+- [Ender's Game](https://www.amazon.com/Enders-Ender-Quintet-Orson-Scott/dp/0312853238?tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=039333869X&linkId=06d049caa157b59916da15e68a6a8d4d)
+
 - **[Moneyball: The Art of Winning an Unfair Game](https://www.amazon.com/gp/product/0393324818/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393324818&linkId=af2e542e06dd348706233139888f5183)**
