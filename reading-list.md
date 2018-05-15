@@ -11,7 +11,7 @@ What I've been reading in chronological order. Position on this list serves no r
 
 ---
 
-#### 2018
+### 2018
 
 - **[Amusing Ourselves To Death](https://amazon.com/Amusing-Ourselves-Death-Neil-Postman/dp/0413404404/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
@@ -29,7 +29,7 @@ What I've been reading in chronological order. Position on this list serves no r
 
 - **[Sapiens](https://www.amazon.com/gp/product/B00ICN066A/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ICN066A&linkId=fcacac2247974cf6b1282af54da71699)**
 
-#### 2017
+### 2017
 
 - **[Why Buddhism Is True](https://www.amazon.com/gp/product/1439195455/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1439195455&linkId=59bc88133cbfa422d02c85325b375270)**
 
@@ -47,7 +47,7 @@ What I've been reading in chronological order. Position on this list serves no r
 
 - [Traction: How Any Startup Can Achieve Explosive Customer Growth](https://www.amazon.com/gp/product/1591848369/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1591848369&linkId=949d2235194fb7674c2f66cf619ab9b4)
 
-#### The Distant Past Before I started Keeping Track
+### The Distant Past Before I Started Keeping Track
 
 - **[Siddhartha](https://amazon.com/Siddhartha-Penguin-Classics-Deluxe-Hermann/dp/0142437182/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
