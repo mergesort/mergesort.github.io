@@ -49,6 +49,8 @@ What I've been reading in chronological order. Position on this list serves no r
 
 ### The Distant Past Before I Started Keeping Track
 
+- **[The Hitchhiker’s Guide to the Galaxy](https://amazon.com/Ultimate-Hitchhikers-Guide-Galaxy/dp/0345453743/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
+
 - **[Siddhartha](https://amazon.com/Siddhartha-Penguin-Classics-Deluxe-Hermann/dp/0142437182/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
 - [iWoz: How I Invented the Personal Computer and Had Fun Along the Way](https://www.amazon.com/gp/product/0393330435/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
