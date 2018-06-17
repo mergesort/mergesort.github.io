@@ -13,6 +13,10 @@ What I've been reading in chronological order. Position on this list serves no r
 
 ### 2018
 
+- **[Triggers](https://amazon.com/Triggers-Creating-Behavior-Lasts-Becoming-Person-ebook/dp/B00N6PEN0Y/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
+
+- **[Mindset](https://amazon.com/Mindset-Psychology-Carol-S-Dweck-ebook/dp/B000FCKPHG/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
+
 - **[Amusing Ourselves To Death](https://amazon.com/Amusing-Ourselves-Death-Neil-Postman/dp/0413404404/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
 - **[Nudge](https://amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X?tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0262529513&linkId=092835958c0a7e15d2f1c149c8f1c4e5)**
