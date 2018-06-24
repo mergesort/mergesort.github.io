@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Learn Swift Podcast - Episode #28
+title: The Learn Swift Podcast - Episode 28
 tags: [programming, industry, swift, featured]
 ---
 
