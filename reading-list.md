@@ -7,11 +7,23 @@ order: 5
 
 ---
 
-What I've been reading in chronological order. Position on this list serves no relation to how great I think a book is, but **bolded** titles are books I highly recommended reading.
+### What I've been reading in chronological order. 
+
+- Position on this list serves no relation to how great I think a book is.
+
+- **Bolded** titles are books I highly recommended reading.
+
+- *Italicized* titles are books I couldn't get through.
 
 ---
 
 ### 2018
+
+- [The Purity Myth](https://amazon.com/Purity-Myth-Americas-Obsession-Virginity/dp/1580053149/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+
+- [High Output Management](https://amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+
+- *[Finite and Infinite Games](https://amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)*
 
 - **[Triggers](https://amazon.com/Triggers-Creating-Behavior-Lasts-Becoming-Person-ebook/dp/B00N6PEN0Y/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
