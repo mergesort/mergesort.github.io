@@ -19,6 +19,10 @@ order: 5
 
 ### 2018
 
+- **[Siddhartha](https://amazon.com/Siddhartha-Penguin-Classics-Deluxe-Hermann/dp/0142437182/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
+
+- [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+
 - [Shop Class as Soulcraft](https://www.amazon.com/gp/product/0143117467/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
 - [The Purity Myth](https://amazon.com/Purity-Myth-Americas-Obsession-Virginity/dp/1580053149/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
@@ -70,8 +74,6 @@ order: 5
 - **[The Hitchhiker’s Guide to the Galaxy](https://amazon.com/Ultimate-Hitchhikers-Guide-Galaxy/dp/0345453743/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
 - **[Zero To One](https://amazon.com/Zero-Notes-Start-Ups-Build-Future/dp/0753555190/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
-
-- **[Siddhartha](https://amazon.com/Siddhartha-Penguin-Classics-Deluxe-Hermann/dp/0142437182/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
 - [iWoz: How I Invented the Personal Computer and Had Fun Along the Way](https://www.amazon.com/gp/product/0393330435/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
