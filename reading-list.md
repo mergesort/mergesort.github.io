@@ -19,6 +19,8 @@ order: 5
 
 ### 2018
 
+- [Shop Class as Soulcraft](https://www.amazon.com/gp/product/0143117467/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+
 - [The Purity Myth](https://amazon.com/Purity-Myth-Americas-Obsession-Virginity/dp/1580053149/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
 - [High Output Management](https://amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
