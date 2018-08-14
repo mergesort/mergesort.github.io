@@ -19,6 +19,8 @@ order: 5
 
 ### 2018
 
+- [Communist Manifesto and Social Contract](https://www.amazon.com/Communist-Manifesto-Contract-Knowledge-Political/dp/B000GHMW94/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+
 - **[Siddhartha](https://amazon.com/Siddhartha-Penguin-Classics-Deluxe-Hermann/dp/0142437182/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
 - [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
