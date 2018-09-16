@@ -19,6 +19,10 @@ order: 5
 
 ### 2018
 
+- [An Autobiography of John Stuart Mill](https://www.amazon.com/Autobiography-John-Stuart-Mill/dp/1481056875/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+
+- [Intercom On Jobs To Be Done](https://www.intercom.com/books/jobs-to-be-done)
+
 - [Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
 - [1984](https://www.amazon.com/1984-George-Orwell/dp/0452262933/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
@@ -80,6 +84,8 @@ order: 5
 - **[The Hitchhiker’s Guide to the Galaxy](https://amazon.com/Ultimate-Hitchhikers-Guide-Galaxy/dp/0345453743/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
 - **[Zero To One](https://amazon.com/Zero-Notes-Start-Ups-Build-Future/dp/0753555190/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
+
+- [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
 - [iWoz: How I Invented the Personal Computer and Had Fun Along the Way](https://www.amazon.com/gp/product/0393330435/ref=as_li_tl?ie=UTF8&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
