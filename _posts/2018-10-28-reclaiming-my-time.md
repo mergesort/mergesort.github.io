@@ -4,13 +4,13 @@ title: Reclaiming My Time
 tags: [featured, productivity, society]
 ---
 
+> The people will not revolt. They will not look up from their screens long enough to notice what’s happening.
+
+George Orwell, 1984
+
 ## The Revelation
 
 I'm overwhelmed — by content. This shouldn’t come as a [surprise](https://en.wikipedia.org/wiki/Information_overload), the term “information overload” has been around since the 1960’s and the internet has only accelerated our access to content. We're inundated by content wherever we go, willingly so in most cases. We can't go a minute without listening to music, reading a tweet, checking the [news](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli). Worst of all, we convince ourselves that it's ok, and that it makes us better people. The most difficult problem has gone from seeking content to curating content.
-
-
-> The people will not revolt. They will not look up from their screens long enough to notice what’s happening.
-  George Orwell, 1984
 
 A well-balanced life is a healthy life. Contrary to popular belief, you can have too much of a good thing. In fact, gluttony is possibly the biggest sin of our times. Just because cereal can be "part of a complete breakfast” doesn’t mean you should have four bowls of Lucky Charms. With never-ending access to a near-infinite amount of the greatest content humanity has ever created, how can we say no? Without outside guidance, we have to focus our effort on maintaining our own information diets.
 
