@@ -10,7 +10,7 @@ George Orwell, 1984
 
 ## The Revelation
 
-I'm overwhelmed — by content. This shouldn’t come as a [surprise](https://en.wikipedia.org/wiki/Information_overload), the term “information overload” has been around since the 1960’s and the internet has only accelerated our access to content. We're inundated by content wherever we go, willingly so in most cases. We can't go a minute without listening to music, reading a tweet, checking the [news](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli). Worst of all, we convince ourselves that it's ok, and that it makes us better people. The most difficult problem has gone from seeking content to curating content.
+I'm overwhelmed — by content. This shouldn’t come as a [surprise](https://en.wikipedia.org/wiki/Information_overload), the term “information overload” has been around since the 1960’s and the internet has only accelerated our access to content. We're inundated by content wherever we go, willingly so in most cases. We can't go a minute without listening to music, reading a tweet, checking the [news](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli). Worst of all, we convince ourselves that it's ok, and that it makes us better people. In a world with infinite content and limited time, the most difficult problem has gone from finding great content to curating it.
 
 A well-balanced life is a healthy life. Contrary to popular belief, you can have too much of a good thing. In fact, gluttony is possibly the biggest sin of our times. Just because cereal can be "part of a complete breakfast” doesn’t mean you should have four bowls of Lucky Charms. With never-ending access to a near-infinite amount of the greatest content humanity has ever created, how can we say no? Without outside guidance, we have to focus our effort on maintaining our own information diets.
 
@@ -19,7 +19,7 @@ A well-balanced life is a healthy life. Contrary to popular belief, you can have
 
 The year was nineteen diggity two and the depression hadn't hit yet. Or maybe it was around 2009 or so, it's hard to remember exactly when I discovered RSS. I stumbled upon a never-ending stream of articles written and recommended by people who were clearly my intellectual superiors. It was fascinating to walk in their footsteps, to understand how they were thinking, to live through their eyes.
 
-Twitter is ostensibly a real time RSS feed with a social graph attached. It is also the most malleable technology product I know of. Your experience is completely in your hands to shape, and the breadth of content is near infinite. I chose to use Twitter long before working there, and created a similar experience to RSS, only centered around people instead of articles.
+To many Twitter is a real time RSS feed with a social graph attached. It is also the most malleable technology product I know of. Your experience is completely in your hands to shape, and the breadth of content is near infinite. I chose to use Twitter long before working there, and created a similar experience to RSS, only centered around people instead of articles.
 
 Podcasts are an audio manifestation of RSS. A cross between the directness of Twitter and the thought-out nature of a blog post. They are the literal interpretation of giving a voice to your favorite content. And they're easy to consume; you don't even have to read. (Congratulations on making it this far by the way.)
 
