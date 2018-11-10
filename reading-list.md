@@ -19,6 +19,8 @@ order: 5
 
 ### 2018
 
+- **[Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
+
 - **[Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
 - **[The Buddha's Noble Eightfold Path](https://www.amazon.com/Buddhas-Noble-Eightfold-Buddhist-Wisdom/dp/1899579818/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
