@@ -35,6 +35,14 @@ I don't regret my consumption. The lessons I've learned will be carried with me 
 I didn’t want to halt my consumption entirely, but I needed to cut down, to free up my personal bandwidth. The fear of missing out drove me to think I would miss out, but I had to trust that some content would be enough. Now when I find someone new to follow, I decide to pick whatever medium feels most appropriate for the content. This lets me hear their voice in the way most suited to them, and frees up space for other people.
 
 
+## Continuous Improvements
+
+I don’t have a one-size-fits-all answer for improving content consumption. The process is a continuous one. I find out what changes make me happy, what makes me unhappy, and it gets a little better all the time.
+
+I still read a ton of blogs, probably too many for my own good, but now I don’t read them right away. I give myself a little more time to decide whether I want to read something before I read it. I add blog posts to my [Pocket](https://getpocket.com) queue and give them a day or two to sit there. If an article still looks interesting, then I’ll give it a read. If it doesn’t, now I don’t feel so guilty about throwing it away, there’s surely something else that will fill that space.
+
+This process is intentionally slower and more deliberate. Just because an article jumps out at me initially doesn’t mean it’s necessarily good. A benefit of this is that I’m more thoughtful about what content I consume. I also find myself getting better at identifying content that is likely to be evergreen and valuable, versus something that’s just attention grabbing.
+
 ----------
 
 I look back and realize that without leaving space for others in the content I consumed, I was resorting to this same pattern of all or none thinking. Rather than allowing myself to be bored for a moment, I chose to allow myself to feel overwhelmed.
@@ -43,7 +51,7 @@ I look back and realize that without leaving space for others in the content I c
 - Unfollow that person on Twitter.
 - Stop reading that blog.
 - Unsubscribe from that podcast.
-
+- Give yourself a little time to digest.
 
 ----------
 
