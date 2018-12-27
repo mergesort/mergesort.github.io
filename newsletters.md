@@ -11,13 +11,6 @@ I believe in sharing knowledge as far and wide as possible. [Though](https://twi
 
 Posts are informative and infrequent, so there ought to be little impedement in signing up.
 
-## Public Extension
-
-Subscribe via [Email](https://www.getrevue.co/profile/publicextension) or [RSS](https://www.getrevue.co/profile/publicextension.rss).
-
-Public Extensions: 9/10 doctors agree that a bit of Swift code in your inbox every week is good for your soul. Sign up and you'll wake up to a new extension in your inbox every Sunday.
-
-
 ## Programmatic Learning
 
 Subscribe via [Email](https://mailchi.mp/f0df17ad2511/programmatic-learning) or [RSS](http://feeds.pinboard.in/rss/u:mergesort/t:learn-programming/).
