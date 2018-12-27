@@ -3,7 +3,7 @@ layout: post
 title: Dev Chats - Joe Fabisevich
 description: >
   This is an interview that I did with Sam Jarman, originally posted [on his blog](https://www.samjarman.co.nz/blog/mergesort).
-tags: [featured, industry, iOS, productivity, programming]
+tags: [industry, iOS, productivity, programming, featured]
 ---
 
 #### Introduce yourself! Who are you? Where do you work?

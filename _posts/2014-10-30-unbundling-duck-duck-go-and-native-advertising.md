@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unbundling, Duck Duck Go, and Native Advertising
-tags: [featured, industry, society]
+tags: [industry, society, featured]
 ---
 
 

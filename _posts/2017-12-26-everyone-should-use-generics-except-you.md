@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everyone Should Use Generics Except You
-tags: [featured, go, programming]
+tags: [go, programming, featured]
 ---
 
 As I was on hour six of debugging how to read an object from the database, my brain suddenly noticed the slight difference in two lines of code. The compiler error had been off, too vague to help me realize that I was never hinting the correct type to the function. Generics had struck again. I cursed in the general direction of my cat (unintentionally), and moved on. There was nothing I could do but accept that we've all been there, and move on.

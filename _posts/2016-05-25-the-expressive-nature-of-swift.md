@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Expressive Nature of Swift
-tags: [featured, swift, programming, iOS]
+tags: [swift, programming, iOS, featured]
 ---
 
 

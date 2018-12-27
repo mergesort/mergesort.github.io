@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reclaiming My Time
-tags: [featured, productivity, society]
+tags: [productivity, society, featured]
 ---
 
 > The people will not revolt. They will not look up from their screens long enough to notice what’s happening.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Can’t Do It All
-tags: [featured, industry]
+tags: [industry, featured]
 ---
 
 At the original iPhone announcement, we saw [Steve Jobs on stage](https://www.youtube.com/watch?v=bd6dQmN-mPw) with Google’s then CEO Eric Schmidt, showing off Google’s amazing Maps. Built for the iPhone, it was something we’d never seen before. Apple’s incredible phone and revolutionary software combined with Google’s terrific web services and data coming together for one amazing product. With regards to collaboration, it’s all been downhill from there. Since then, every tech company has focused on owning the whole experience.
