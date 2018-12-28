@@ -13,7 +13,7 @@ order: 5
 
 - **Bolded** titles are books I highly recommended reading.
 
-- *Italicized* titles are books I couldn't get through.
+- Titles with a ~~strikethrough~~ are books I couldn't finish and wouldn't recommend.
 
 ---
 
@@ -49,7 +49,7 @@ order: 5
 
 - [High Output Management](https://amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
-- *[Finite and Infinite Games](https://amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)*
+- ~~[Finite and Infinite Games](https://amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)~~
 
 - **[Triggers](https://amazon.com/Triggers-Creating-Behavior-Lasts-Becoming-Person-ebook/dp/B00N6PEN0Y/ref=sr_1_2&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
