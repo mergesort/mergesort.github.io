@@ -17,6 +17,10 @@ order: 5
 
 ---
 
+### 2019
+
+- **[High Growth Handbook](https://smile.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
+
 ### 2018
 
 - [Why We Sleep](https://smile.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
