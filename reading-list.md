@@ -19,6 +19,8 @@ order: 5
 
 ### 2019
 
+- [The Omnivore's Dilemma](https://smile.amazon.com/Omnivores-Dilemma-Natural-History-Meals-ebook/dp/B000SEIDR0/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+
 - [The Manager’s Path](https://smile.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
 - [The Art of War](https://smile.amazon.com/Art-War-Essential-Translation-Classics/dp/0143105752/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
