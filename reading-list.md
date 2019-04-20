@@ -19,6 +19,8 @@ order: 5
 
 ### 2019
 
+- [Walden](https://smile.amazon.com/Walden-Henry-David-Thoreau/dp/1494812509/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+
 - [The Omnivore's Dilemma](https://smile.amazon.com/Omnivores-Dilemma-Natural-History-Meals-ebook/dp/B000SEIDR0/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
 - [The Manager’s Path](https://smile.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
