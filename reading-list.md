@@ -9,7 +9,7 @@ order: 5
 
 ### What I've been reading in chronological order. 
 
-- Position on this list serves no relation to how great I think a book is.
+- Position on this list serves no relation to how worthwhile I think a book is.
 
 - **Bolded** titles are books I highly recommended reading.
 
@@ -19,14 +19,11 @@ order: 5
 
 ### 2019
 
+- [The Shallows](https://smile.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393339750/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - [Walden](https://smile.amazon.com/Walden-Henry-David-Thoreau/dp/1494812509/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
-
 - [The Omnivore's Dilemma](https://smile.amazon.com/Omnivores-Dilemma-Natural-History-Meals-ebook/dp/B000SEIDR0/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
-
 - [The Manager’s Path](https://smile.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
-
 - [The Art of War](https://smile.amazon.com/Art-War-Essential-Translation-Classics/dp/0143105752/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
-
 - **[High Growth Handbook](https://smile.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)**
 
 ### 2018
