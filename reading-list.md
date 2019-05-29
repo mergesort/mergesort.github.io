@@ -13,12 +13,15 @@ order: 5
 
 - **Bolded** titles are books I highly recommended reading.
 
+- *Italicized* titles are books I finished and wouldn't recommend.
+
 - Titles with a ~~strikethrough~~ are books I couldn't finish and wouldn't recommend.
 
 ---
 
 ### 2019
 
+- *[The Colossus of New York](https://smile.amazon.com/Colossus-New-York-Colson-Whitehead/dp/1400031249/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)*
 - [The Shallows](https://smile.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393339750/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - [Walden](https://smile.amazon.com/Walden-Henry-David-Thoreau/dp/1494812509/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - [The Omnivore's Dilemma](https://smile.amazon.com/Omnivores-Dilemma-Natural-History-Meals-ebook/dp/B000SEIDR0/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
