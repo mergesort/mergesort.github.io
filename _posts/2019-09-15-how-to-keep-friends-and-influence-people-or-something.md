@@ -23,7 +23,7 @@ Yep, it’s as simple as it sounds.
 
 Now I admit, this does sound a bit mechanical, but here’s where the philosophy behind this list is important. The word todo sounds like a [chore](https://www.becktench.com/blog/2019/5/13/kinder-to-do-lists), you’re being told what to do, but these are just reminders, not orders!
 
-The odds of me not talking to my best friend for a week are slim to none, but it does happen every once in a while. This todo list item serves as a nudge — hey, reach out to your best friend, even if it’s just sending a [pulse](#). This almost always leads to a deeper conversation where you learn about what’s going on in your friend’s life. It provides an opportunity to find out about them, and for them to find out about you. But sometimes it doesn’t, and that’s ok, in that case it just serves as a reminder that you’re in their life and they matter to you.
+The odds of me not talking to my best friend for a week are slim to none, but it does happen every once in a while. This todo list item serves as a nudge — hey, reach out to your best friend, even if it’s just sending a [pulse](https://jasdev.me/ambient-intimacy). This almost always leads to a deeper conversation where you learn about what’s going on in your friend’s life. It provides an opportunity to find out about them, and for them to find out about you. But sometimes it doesn’t, and that’s ok, in that case it just serves as a reminder that you’re in their life and they matter to you.
 
 ## Building A Schedule
 
