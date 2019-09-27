@@ -21,7 +21,8 @@ order: 5
 
 ### 2019
 
-- 🌟 [Creative Confidence](https://smile.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+- 🌟 [Super Thinking: The Big Book of Mental Models](https://smile.amazon.com/Super-Thinking-Book-Mental-Models/dp/0525533583/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+- [Creative Confidence](https://smile.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - 🌟 [Between The World And Me](https://smile.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - 🌟 [We Were Eight Years in Power](https://smile.amazon.com/We-Were-Eight-Years-Power/dp/0399590560/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - *[The Colossus of New York](https://smile.amazon.com/Colossus-New-York-Colson-Whitehead/dp/1400031249/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)*
