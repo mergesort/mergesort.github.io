@@ -14,7 +14,6 @@ At first blush you may think that a todo list sounds incredibly impersonal, itâ€
 
 Yep, itâ€™s as simple as it sounds.
 
-
 - I have a list called **Keep In Touch**.
 - Each entry on my Keep In Touch list is a person, with their phone number attached to the entry, that way I can text [^1] them from there.
 - Each entry also has a time interval, how often I contact them, depending on how close we are.
@@ -83,4 +82,4 @@ My system for keeping close people close is one of the most important learnings 
 
 If you have any thoughts or feelings on the idea, please be a friend and [reach out](https://twitter.com/mergesort). I would absolutely love to hear what you think.
 
-[^1]: I write text throughout the post, but in a loose manner. With people across the country it's often a text, with my parents it's always a call, and with many people in my life it's grabbing lunch or dinner.
+[^1]: I write text, but only in the loosest of manners. With people across the country it's often a text, with my parents it's always a call, and with many people in my life it's grabbing lunch or dinner. You should pick whatever your preferred mode of communication is and go from there.
