@@ -16,12 +16,12 @@ Yep, it’s as simple as it sounds.
 
 
 - I have a list called **Keep In Touch**.
-- Each entry on my Keep In Touch list is a human being, with their phone number attached to the entry, that way I can text them from there.
+- Each entry on my Keep In Touch list is a person, with their phone number attached to the entry, that way I can text [^1] them from there.
 - Each entry also has a time interval, how often I contact them, depending on how close we are.
 
 ![Something like this (I’m no Photoshop whiz obviously)]({{ site.url }}/assets/img/keep-in-touch-list.jpeg)
 
-Now I admit, this does sound a bit mechanical, but here’s where the philosophy behind this list is important. The word todo sounds like a [chore](https://www.becktench.com/blog/2019/5/13/kinder-to-do-lists), you’re being told what to do, but these are just reminders, not orders!
+Now I admit, this does sound a bit mechanical, but here’s where the philosophy behind this list is important. If you call it a system it sounds cold, but creating a dedicated space for people in your life sounds a lot warmer. The word todo sounds like a [chore](https://www.becktench.com/blog/2019/5/13/kinder-to-do-lists), you’re being told what to do, but these are just reminders, not orders!
 
 The odds of me not talking to my best friend for a week are slim to none, but it does happen every once in a while. This todo list item serves as a nudge — hey, reach out to your best friend, even if it’s just sending a [pulse](https://jasdev.me/ambient-intimacy). This almost always leads to a deeper conversation where you learn about what’s going on in your friend’s life. It provides an opportunity to find out about them, and for them to find out about you. But sometimes it doesn’t, and that’s ok, in that case it just serves as a reminder that you’re in their life and they matter to you.
 
@@ -83,3 +83,4 @@ My system for keeping close people close is one of the most important learnings 
 
 If you have any thoughts or feelings on the idea, please be a friend and [reach out](https://twitter.com/mergesort). I would absolutely love to hear what you think.
 
+[^1]: I write text throughout the post, but in a loose manner. With people across the country it's often a text, with my parents it's always a call, and with many people in my life it's grabbing lunch or dinner.
