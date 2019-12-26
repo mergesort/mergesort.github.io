@@ -130,7 +130,7 @@ This may seem like a lot of boilerplate, and to be honest, it's more than I woul
 
 ----------
 
-Now you may also be thinking “sometimes my models don’t map to how they’re displayed one to one, how can I make that work?” Follow along with [part 2]({{ site.url }}/12/26/building-better-views-part-ii), where we'll cover that, and a few other questions you may have.
+Now you may also be thinking “sometimes my models don’t map to how they’re displayed one to one, how can I make that work?” Follow along with [part 2]({{ site.url }}/2019/12/26/building-better-views-part-ii), where we'll cover that, and a few other questions you may have.
 
 As always, I'm excited to hear your thoughts, and am receptive to [feedback](https://twitter.com/mergesort)!
 
