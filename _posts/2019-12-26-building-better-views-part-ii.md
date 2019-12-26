@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Better Views (Part II): Next Steps
+title: Building Better Views (Part II), Next Steps
 tags: [programming, swift]
 ---
 
