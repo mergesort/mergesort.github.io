@@ -6,7 +6,7 @@ tags: [programming, swift, featured]
 
 As iOS developers, a lot of our work involves taking models from a server, and transforming them to be displayed on an iPhone or iPad. This sounds like a job for some declarative architecture. 🤔
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">If you ask 3 programmers how to define MVVM, expect to get 7 different responses.</p>&mdash; ✨ Joe Fabisevich™ ✨ (@mergesort) <a href="https://twitter.com/mergesort/status/720706593982062592?ref_src=twsrc%5Etfw">April 14, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">If you ask 3 programmers how to define MVVM, expect to get 7 different responses.</p>&mdash; ✨ Joe Fabisevich™ ✨ (@mergesort) <a href="https://twitter.com/mergesort/status/720706593982062592?ref_src=twsrc%5Etfw">April 14, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Confession: I’ve never fully bought into MVVM. I don’t think it’s worse than MVC. I use View Models as a place to store state and actions for View Controllers, and preferably stateless functions for manipulating data. In my experience, things become harder to maintain when they start becoming a crutch, as a place to put your code if it doesn’t neatly fall into the Model, View, or Controller label.
 
