@@ -21,6 +21,7 @@ order: 5
 
 ### 2019
 
+- 🌟 [Because Internet: Understanding the New Rules of Language](https://smile.amazon.com/Because-Internet-Understanding-Rules-Language/dp/0735210934/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - 🌟 [Loonshots](https://smile.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries-ebook/dp/B07D2BKVQR/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - 🌟 [Super Thinking: The Big Book of Mental Models](https://smile.amazon.com/Super-Thinking-Book-Mental-Models/dp/0525533583/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - [Creative Confidence](https://smile.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
