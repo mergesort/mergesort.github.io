@@ -32,9 +32,7 @@ Creating the `ViewData` should look familiar. We're going to do the exact same t
       }
     
       var statusLabelText: String {
-      // FIX THIS SYNTAX
-        return NSLocalizedString("%@ complete", "The percentage a course is complete")
-        return "\(self.enrollment.percentComplete)% \("complete".localized())"
+	    return String.localizedStringWithFormat(NSLocalizedString("%@% complete", comment: "The percentage a course is complete"), self.enrollment.percentComplete)
       }
     
       var progress: CGFloat {
@@ -112,6 +110,7 @@ Some people prefer to make an object to handle business logic, to make their cod
       private static func transformDateToString(date: Date) -> String {
         return someMagicalWayToTransformDatesToStrings()
       }
+
     }
     
     struct DateTransformer {
