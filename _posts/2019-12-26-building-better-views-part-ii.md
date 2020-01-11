@@ -4,7 +4,7 @@ title: Building Better Views (Part II), Next Steps
 tags: [programming, swift]
 ---
 
-If you haven't checked out [Part I]({{ site.url }}/12/26/building-better-views-part-i), I recommend reading it because if you don't, none of writing below will make sense!
+If you haven't checked out [Part I]({{ site.url }}/2019/12/26/building-better-views-part-i), I recommend reading it because if you don't, none of writing below will make sense!
 
 ## Three Unanswered Questions
 
