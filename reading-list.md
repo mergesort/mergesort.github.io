@@ -21,6 +21,8 @@ order: 5
 
 ### 2020
 
+- [It Doesn't Have To Be Crazy At Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+
 - 🌟 [10% Happier](https://www.amazon.com/10-Happier-Revised-Self-Help-Works/dp/0062917609/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 
 - 🌟 [Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity](https://smile.amazon.com/Strong-Towns-Bottom-Up-Revolution-Prosperity/dp/1119564816/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
