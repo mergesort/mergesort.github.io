@@ -21,7 +21,11 @@ order: 5
 
 ### 2020
 
+- 🌟 [Harry Potter and the Goblet of Fire](https://smile.amazon.com/Harry-Potter-Goblet-Fire-Book/dp/B017V4NQGM/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+- 🌟 [Harry Potter and the Prisoner of Azkaban](https://smile.amazon.com/Harry-Potter-Prisoner-Azkaban-Book/dp/B017V4NTFA/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+- 🌟 [Harry Potter and the Chamber of Secrets](https://smile.amazon.com/Harry-Potter-Chamber-Secrets-Rowling-ebook/dp/B0192CTMW8/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - 🌟 [Harry Potter and the Sorcerer's Stone](https://smile.amazon.com/Harry-Potter-Sorcerers-Stone-Rowling/dp/059035342/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
+- 🌟 [How to Be an Antiracist](https://smile.amazon.com/How-Be-Antiracist-Ibram-Kendi-ebook/dp/B07D2364N5/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - [Chasing The Sun](https://smile.amazon.com/Chasing-Sun-Science-Sunlight-Shapes/dp/1643132172/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - [It Doesn't Have To Be Crazy At Work](https://smile.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
 - 🌟 [10% Happier](https://smile.amazon.com/10-Happier-Revised-Self-Help-Works/dp/0062917609/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
