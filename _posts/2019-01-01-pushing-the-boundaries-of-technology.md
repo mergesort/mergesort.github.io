@@ -67,6 +67,14 @@ Then we reach the next level, the galaxy brain of unionization. A form of checks
 
 Separately we can all ask for that to happen. Together we can demand it.
 
+## Additional Thoughts From 2020 On Education
+
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">This is one of my biggest hills to die on regarding the industry. The computer science curriculum should be completely revamped. Extend programs to 5 years, a minimum of two ethics courses, two philosophy courses, and provide real world job opportunities every fourth quarter. <a href="https://t.co/Ta4z5iCSb9">https://t.co/Ta4z5iCSb9</a></p>&mdash; ✨ Joe F. ™ ✨ (@mergesort) <a href="https://twitter.com/mergesort/status/1277942206532288512?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">I am convinced that students would be better served by a few semesters of reading Pascal, de Beauvoir, or Algorithms of Oppression than being forced into three semesters of classic, electromagnetic, and wave/optics-related physics courses like I was.</p>&mdash; ✨ Joe F. ™ ✨ (@mergesort) <a href="https://twitter.com/mergesort/status/1277988590476288002?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">While we’re at it, throw in a couple of computing history courses. Teach the youths about all of today&#39;s “novel” problems that are actually reinventions or practical applications of CS theory from the 60’s and 70’s, and about all the women our industry is actually built on.</p>&mdash; ✨ Joe F. ™ ✨ (@mergesort) <a href="https://twitter.com/mergesort/status/1277988591344418817?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ----------
 
 The tech industry can use an injection of the humanities because technology is built to improve humanity. Let’s not forget about the humans on the other side.
