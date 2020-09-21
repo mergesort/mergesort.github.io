@@ -12,6 +12,8 @@ I'll walk through a task I find myself doing often when building iOS apps, creat
 
 ### Regular View Configured as a Header
 
+###### SettingsViewController.swift
+
 ```
 final class SettingsViewController: UIViewController {
     
@@ -53,6 +55,8 @@ For folks new to iOS development, this is a common approach I see when adding a 
 
 ### Separate Class For The Header
 
+###### SettingsViewController.swift
+
 ```
 final class SettingsViewController: UIViewController {
     
@@ -69,7 +73,11 @@ final class SettingsViewController: UIViewController {
         self.tableView.tableHeaderView = self.headerView
     }
 }
-    
+```
+
+###### SettingsTableHeaderView.swift
+
+```
 final class SettingsTableHeaderView: UIView {
     // Some code creating and configuring SettingsTableHeaderView
     // ...
@@ -83,29 +91,32 @@ A naive approach to improve our readability would have been to move our configur
 
 ### Private Class for the Header
 
+###### SettingsViewController.swift
 
-    final class SettingsViewController: UIViewController {
+```
+final class SettingsViewController: UIViewController {
     
-        private let headerView = HeaderView()
+    private let headerView = HeaderView()
     
-        private let tableView = UITableView()
+    private let tableView = UITableView()
     
-        override func viewDidLoad() {
-            super.viewDidLoad()
+    override func viewDidLoad() {
+        super.viewDidLoad()
     
-            self.view.addSubview(self.tableView)
-            self.setupTableView()
+        self.view.addSubview(self.tableView)
+        self.setupTableView()
     
-            self.tableView.tableHeaderView = self.headerView
-        }
-    
-        private final class HeaderView: UIView {
-          // Some code creating and configuring SettingsViewController.HeaderView
-          // ...
-          // ...
-        }
-    
+        self.tableView.tableHeaderView = self.headerView
     }
+    
+    private final class HeaderView: UIView {
+      // Some code creating and configuring SettingsViewController.HeaderView
+      // ...
+      // ...
+    }
+    
+}
+```
 
 Now this is a solution that I'm really liking. We've moved `SettingsTableHeaderView` out of our module’s namespace and into one dependent on the context it's in,  `SettingsViewController`. When referring to  `SettingsViewController.HeaderView` inside of this class we can plainly refer to it as `HeaderView`, which is not only less verbose, but emphasizes the pairing between  `HeaderView` and  `SettingsViewController`. 
 
@@ -114,6 +125,8 @@ There is a downside to this approach though, the more views we add to  `Settings
 ----------
 
 ### Two Files with Namespaced Internal Classes
+
+###### SettingsViewController.swift
 
 ```
 final class SettingsViewController: UIViewController {
@@ -133,6 +146,8 @@ final class SettingsViewController: UIViewController {
 
 }
 ```    
+
+###### SettingsViewController.HeaderView.swift
 
 ```
 extension SettingsViewController {
