@@ -10,7 +10,7 @@ I'll walk through a task I find myself doing often when building iOS apps, creat
 
 ----------
 
-**Regular View Configured as a Header**
+### Regular View Configured as a Header
 
 ```
 final class SettingsViewController: UIViewController {
@@ -51,7 +51,7 @@ For folks new to iOS development, this is a common approach I see when adding a 
 
 ----------
 
-**Separate Class For The Header**
+### Separate Class For The Header
 
 ```
 final class SettingsViewController: UIViewController {
@@ -81,7 +81,7 @@ A naive approach to improve our readability would have been to move our configur
 
 ----------
 
-**Private Class for the Header**
+### Private Class for the Header
 
 
     final class SettingsViewController: UIViewController {
@@ -113,7 +113,7 @@ There is a downside to this approach though, the more views we add to  `Settings
 
 ----------
 
-**Two Files with Namespaced Internal Classes**
+### Two Files with Namespaced Internal Classes
 
 ```
 final class SettingsViewController: UIViewController {
