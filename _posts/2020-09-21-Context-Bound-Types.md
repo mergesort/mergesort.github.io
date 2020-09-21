@@ -171,3 +171,6 @@ While I’ve walked through one example with four approaches, binding a type to 
 
 As always, I’d love to know what you think or if you’ve come up with better solutions, so please don’t be shy about [reaching out](https://twitter.com/mergesort).
 
+----------
+
+Special shoutout to [Jasdev](https://twitter.com/jasdev) for taking a *very rough* first draft and helping me turn it into something coherent.
