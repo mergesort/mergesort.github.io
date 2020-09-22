@@ -6,7 +6,7 @@ tags: [productivity, featured]
 
 > Maybe the real friends were the friends we made along the way.
 
-I [left Facebook](https://www.fabisevi.ch/2013/06/30/friends/) years ago, and only follow ~70 people on [Twitter](https://twitter.com/mergesort), which leads some to assume that I don’t find keeping in touch with people to be a top priority, but that couldn’t be further from the truth. My todo list is where I hold my priorities, and my friends and family are the biggest priorities in my life, so that’s where I turn to for making sure I’m staying close to them.
+I [quit using Facebook](https://www.fabisevi.ch/2013/06/30/friends/) years ago, and only follow ~70 people on [Twitter](https://twitter.com/mergesort), which leads some to assume that I don’t find keeping in touch with people to be a top priority, but that couldn’t be further from the truth. My todo list is where I hold my priorities, and my friends and family are the biggest priorities in my life, so that’s where I turn to for making sure I’m staying close to them.
 
 At first blush you may think that a todo list sounds incredibly impersonal, it’s actually a [deep expression of caring](https://twitter.com/savinola/status/987795706114002944). When people ask for more details, I receive pretty much universally positive feedback, so now I’ll share it with you.
 
