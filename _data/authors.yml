@@ -12,11 +12,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            https://fabisevi.ch/assets/img/sombrero-avatar-256x256.jpg
+    path:            https://fabisevi.ch/assets/img/avatar-256x256.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://fabisevi.ch/assets/img/sombrero-avatar-128x128.jpg
-      2x:            https://fabisevi.ch/assets/img/sombrero-avatar-256x256.jpg
+      1x:            https://fabisevi.ch/assets/img/avatar-128x128.jpg
+      2x:            https://fabisevi.ch/assets/img/avatar-256x256.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
