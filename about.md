@@ -8,7 +8,6 @@ order: 3
 ---
 <video autoplay muted loop>
   <source src="{{ site.url }}/assets/img/welcome.mp4" type="video/mp4">
-  <p>Your browser does not support the video element.</p>
 </video>
 
 <br>
