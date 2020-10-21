@@ -10,8 +10,6 @@ order: 3
   <source src="{{ site.url }}/assets/img/welcome.mp4" type="video/mp4">
 </video>
 
-<br>
-
 Hi, I'm Joe. What's there to say about me? There's a lot, but I'll try and have some of my favorite quotes speak for me.
 
 ---
