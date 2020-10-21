@@ -12,6 +12,7 @@ order: 3
 </video>
 
 <br>
+
 Hi, I'm Joe. What's there to say about me? There's a lot, but I'll try and have some of my favorite quotes speak for me.
 
 ---
