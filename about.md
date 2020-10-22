@@ -6,7 +6,7 @@ order: 3
 ---
 
 ---
-<video autoplay muted loop style="max-width: 100%">
+<video autoplay playsinline muted loop style="max-width: 100%">
   <source src="{{ site.url }}/assets/img/welcome.mp4" type="video/mp4">
 </video>
 
