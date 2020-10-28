@@ -31,7 +31,7 @@ Hi, I'm Joe. What's there to say about me? There's a lot, but I'll try and have 
 
 ---
 
-I guess the only thing that really says about me is that I'm the kind of person who saved some quotes they found meaningful. When I write for myself it shows up on the homepage (cause I own this website), but I keep the best ones [here](https://www.fabisevi.ch/tag/featured-posts/). But mostly I'm living my days trying to prove that you can get ahead in this world through kindness and consideration, while bringing others along with you.
+I guess the only thing that really says about me is that I'm the kind of person who saved some quotes they found meaningful. When I write for myself it shows up on the homepage (cause I own this website), but I keep the best posts [here](https://www.fabisevi.ch/tag/featured-posts/). But mostly I'm living my days trying to prove that you can get ahead in this world through kindness and consideration, while bringing others along with you.
 
 At work, I'm a senior mobile engineer at Twitter, which is a fancy way of saying I work on their iPhone app, and specifically on the [Health Client](https://blog.twitter.com/en_us/topics/company/2019/health-update.html) team. We focus on building product experiences to minimize misinformation, disinformation, abuse, and harassment to improve public discourse.
 
