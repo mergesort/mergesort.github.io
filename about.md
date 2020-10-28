@@ -23,6 +23,30 @@ Hi, I'm Joe. What's there to say about me? There's a lot, but I'll try and have 
 > You can’t use up creativity. The more you use, the more you have.
 ><br> — Maya Angelou
 
+> Discovering the truth about ourselves is a lifetime's work, but it's worth the effort.
+><br> — Fred Rogers
+
+> Society grows great when old men plant trees whose shade they know they shall never sit in.
+><br> — Anonymous Greek proverb
+
+---
+
+I guess the only thing that really says about me is that I'm the kind of person who saved some quotes they found meaningful. In practice, I live my days trying to prove that you can get ahead in this world through kindness and consideration, while bringing others along with you.
+
+At work, I'm a senior mobile engineer at Twitter, which is a fancy way of saying I work on their iPhone app, and specifically on the [Health Client](https://blog.twitter.com/en_us/topics/company/2019/health-update.html) team. We focus on building product experiences to minimize misinformation, disinformation, abuse, and harassment to improve public discourse.
+
+Outside of work I spend time [volunteering](https://twitter.com/AlexPaul/status/1317197327065559040), (remember being allowed to be in-person with people?). Nowadays I find myself hosting [office hours](https://twitter.com/mergesort/status/1269382008570023936) for underrepresented people in STEM. If you're not sure this is for you, [here](https://twitter.com/coder_pilot/status/1273733450785189888) [are](https://twitter.com/zoha131/status/1276896905834856448) [some](https://twitter.com/objectivechris/status/1272900957131747331) [testimonials](https://twitter.com/swiftysanders/status/1282011590531809280)! Folks seem to think they're rather helpful, so if that sounds like something you're interested in, please **[sign up](https://calendly.com/mergesort/office-hours)** and say hi[^1].
+
+In my free time I enjoy working on side projects that help me grow creatively. Some are fun, some are dumb, some help me learn, but all of them mean something to me and have shaped me into who I am today. And of course free time wouldn't be much without leisure, I like to unwind by biking around NYC, running, watching too much TV, and [reading](https://fabisevi.ch/reading-list) all kinds of books under the sun. 
+
+If you're looking to hire me, well I've got bad news for you, **I'M UNHIRABLE!** That's because I'm currently very happy, not because I have awful personality traits. But if you want a resume here's my latest [one](https://fabisevi.ch/assets/Joe-Fabisevich--Resume.pdf). There's a good chance it's out of date, so it may be worth checking [LinkedIn](https://linkedin.com/in/devjoe) for something that may also be out of date, but probably less so.
+
+There's a lot more to me, so don't be shy in **[reaching out](https://twitter.com/mergesort)**. And if you're more old-fashioned, I'm also reachable via **[email](mailto:ireadeveryemail@fabisevi.ch)**.
+
+By now you've figured out my secret, I like quotes. So I'll leave you with a few more that mean a lot to me.
+
+---
+
 > Find out who you are. And do it on purpose.
 ><br> — Dolly Parton
 
@@ -38,22 +62,4 @@ Hi, I'm Joe. What's there to say about me? There's a lot, but I'll try and have 
 > I am no longer accepting the things I cannot change. I am changing the things I cannot accept.
 ><br> — Angela Davis
 
-> Discovering the truth about ourselves is a lifetime's work, but it's worth the effort.
-><br> — Fred Rogers
-
-> Society grows great when old men plant trees whose shade they know they shall never sit in.
-><br> — Anonymous Greek proverb
-
----
-
-I guess the only thing that really says about me is that I'm the kind of person who saved ten quotes they found meaningful. I have many more, but you get the picture. In practice, I live my days trying to prove that you can get ahead in this world through kindness and consideration, while bringing others along with you.
-
-At work I'm a senior mobile engineer at Twitter, which is a fancy way of saying I work on Twitter's iPhone app. I work on the [Health Client](https://blog.twitter.com/en_us/topics/company/2019/health-update.html) team, where we focus on building product experiences to minimize misinformation, disinformation, abuse, and harassment on Twitter to improve the public discourse.
-
-Outside of work I spend a lot of time [volunteering](https://twitter.com/AlexPaul/status/1317197327065559040), that is when it was ok to be around people. Nowadays I find myself doing [office hours](https://twitter.com/mergesort/status/1269382008570023936) sessions with underrepresented people in STEM. [People](https://twitter.com/coder_pilot/status/1273733450785189888) seem [to think](https://twitter.com/zoha131/status/1276896905834856448) they're rather [helpful](https://twitter.com/objectivechris/status/1272900957131747331), so if that sounds like something you'd be [interested](https://twitter.com/swiftysanders/status/1282011590531809280) in, please do **[sign up](https://calendly.com/mergesort/office-hours)**. It's not mandatory in any way, but if you have apprehensions about taking up my time, you can ease your guilt by donating to a [great cause](http://www.blackgirlscode.com/).
-
-In my free time I like to work on side projects that help me grow creatively. Some are fun, some are dumb, some help me learn, but all of them mean something to me and have shaped me into who I am today. And of course free time wouldn't be much without leisure, I like to unwind by biking around NYC, running, watching too much TV, and [reading](https://fabisevi.ch/reading-list) all kinds of books under the sun. 
-
-If you're looking to hire me, well I've got bad news for you, **I'M UNHIRABLE!** That's because I'm currently very happy, not because I have awful personality traits. But if you want a resume here's my latest [one](https://fabisevi.ch/assets/Joe-Fabisevich--Resume.pdf). There's a good chance it's out of date, so it may be worth checking [LinkedIn](https://linkedin.com/in/devjoe) for something that may also be out of date, but probably less so.
-
-There's a lot more to me, so don't be shy in **[reaching out](https://twitter.com/mergesort)**. And if you're more old fashioned, I'm also reachable via **[email](mailto:ireadeveryemail@fabisevi.ch)**.
+[^1]: (If you have any hesitations about taking up my time, you can ease your guilt by donating to a [great cause](http://www.blackgirlscode.com/).
