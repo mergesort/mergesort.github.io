@@ -2,7 +2,7 @@
 layout: about
 title: Newsletters
 menu: true
-order: 4
+order: 5
 ---
 
 ---

@@ -2,7 +2,7 @@
 layout: about
 title: Reading List
 menu: true
-order: 5
+order: 4
 ---
 
 ---
