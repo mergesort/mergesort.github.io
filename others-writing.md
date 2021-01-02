@@ -2,7 +2,7 @@
 layout: about
 title: Writing That Has Me Thinking
 menu: true
-order: 5
+order: 4
 ---
 
 ---
