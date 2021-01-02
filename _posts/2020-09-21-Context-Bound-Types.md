@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Context-Bound Types
-tags: [programming, swift]
+tags: [programming, swift, featured]
 ---
 
 I've been thinking about privacy lately. No, not [online](https://www.fabisevi.ch/2018/01/16/the-future-will-be-signed/) [privacy](https://www.fabisevi.ch/2019/01/01/pushing-the-boundaries-of-technology/), but about how APIs can balance exposing the right amount of implementation details without revealing too much.
