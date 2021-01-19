@@ -13,8 +13,13 @@ Sometimes I read a piece of writing that has me thinking for days or weeks. It's
 
 Position on this list serves no relation to the writing's worth, it's purely chronological.
 
+### 2021
+
+- [Who Owns The Benefit? The Free Market As Full Communism](https://theanarchistlibrary.org/library/kevin-carson-who-owns-the-benefit-the-free-market-as-full-communism)
+
 ### 2020
 
+- [Can Projects Recharge You?](https://davidhoang.substack.com/p/can-projects-recharge-you-an-approach)
 - [The Lesson Of Grace In Teaching](http://mathyawp.blogspot.com/2013/01/the-lesson-of-grace-in-teaching.html), [notes](https://twitter.com/mergesort/status/1343377917334736897)
 - ⭐️ [How Complex Systems Fail](https://how.complexsystems.fail), [notes](https://twitter.com/mergesort/status/1330689101583044609)
 - [We Need Young Programmers; We Need Old Programmers](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/), [notes](https://twitter.com/mergesort/status/1309897292523220992)
