@@ -39,7 +39,7 @@ By letting good actors prove they're good actors, we've isolated the bad actors 
 
 ---
 
-This wouldn't fix the mistakes that App Review makes, and bless them, it's a very tough job. This doesn’t even solve many of the App Store's problems, it’s only one idea and there are many other problems that Apple needs to solve. But it does lay the foundation for a system where Apple can trust developers, something that is increasingly necessary for maintaining the consistency quality Apple, developers, and customers all want for the App Store.
+This wouldn't fix the mistakes that App Review makes, and bless them, it's a very tough job. This doesn’t even solve many of the App Store's problems, it’s only one idea and there are many other problems that Apple needs to solve. But it does show that Apple has lots of levers to pull when designing resilient systems, and can lay the foundation for a system where Apple can trust developers. And that's increasingly necessary for maintaining the consistency quality Apple, developers, and customers all want for the App Store.
 
 As always, I’m excited to hear your thoughts, and am receptive to [feedback](https://twitter.com/mergesort), so if you want to talk don't be shy about sending me a trustworthy tweet.
 
