@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empower Apps: Large Scale Teams
+title: Empower Apps Podcast - Large Scale Teams
 tags: [programming, industry, swift, featured]
 ---
 
