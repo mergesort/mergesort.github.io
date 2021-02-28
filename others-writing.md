@@ -15,6 +15,10 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- ⭐️ [The Clubhouse App and the Rise of Oral Psychodynamics](https://zeynep.substack.com/p/the-clubhouse-app-and-the-rise-of)
+- ⭐️ [What Makes A Great Friend?](https://leowid.com/what-makes-a-great-friend-9-things-that-my-best-friend-matthias-does)
+- [The High Price Of Mistrust](https://fs.blog/2021/01/mistrust/)
+- [How Hard Should I Push Myself](https://every.to/superorganizers/how-hard-should-i-push-myself)
 - [Increasing Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
 - [Who Owns The Benefit? The Free Market As Full Communism](https://theanarchistlibrary.org/library/kevin-carson-who-owns-the-benefit-the-free-market-as-full-communism)
 - [A Widening Gap](https://nbt.substack.com/p/a-widening-gap)
