@@ -19,6 +19,10 @@ order: 3
 
 ---
 
+### 2021
+
+- [This Changes Everything: Capitalism vs. The Climate](https://smile.amazon.com/exec/obidos/ASIN/1451697392/innerselfcom)
+
 ### 2020
 
 - 🌟 [How to Be an Antiracist](https://smile.amazon.com/How-Be-Antiracist-Ibram-Kendi-ebook/dp/B07D2364N5/ref=sr_1_3&tag=picks06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393330435&linkId=123e1f273661c0e93b0260bd27d8460f)
