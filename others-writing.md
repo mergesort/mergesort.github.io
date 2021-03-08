@@ -15,6 +15,8 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- ⭐️ [The Michael Scott Theory of Social Class](https://alexdanco.com/2021/01/22/the-michael-scott-theory-of-social-class/)
+- ⭐️ [Paradigm shifts for the decentralized Web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
 - ⭐️ [The Clubhouse App and the Rise of Oral Psychodynamics](https://zeynep.substack.com/p/the-clubhouse-app-and-the-rise-of)
 - ⭐️ [What Makes A Great Friend?](https://leowid.com/what-makes-a-great-friend-9-things-that-my-best-friend-matthias-does)
 - [The High Price Of Mistrust](https://fs.blog/2021/01/mistrust/)
