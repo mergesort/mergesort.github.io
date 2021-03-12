@@ -24,6 +24,7 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 - [Increasing Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
 - [Who Owns The Benefit? The Free Market As Full Communism](https://theanarchistlibrary.org/library/kevin-carson-who-owns-the-benefit-the-free-market-as-full-communism)
 - [A Widening Gap](https://nbt.substack.com/p/a-widening-gap)
+- [Notes On Technology In The 2020s](https://elidourado.com/blog/notes-on-technology-2020s/)
 
 ### 2020
 
