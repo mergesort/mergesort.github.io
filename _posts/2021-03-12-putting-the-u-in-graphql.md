@@ -10,7 +10,7 @@ I've read about how to create a GraphQL query and how to integrate GraphQL on yo
 
 While this is a perfectly reasonable approach, and actually a pretty good developer experience, it still didn't answer the questions I had as an ever-curious engineer, how would I do this on my own?
 
-I broke the problem I saw down into two smaller problems, request-generation and request-making. Generating a request, especially in Swift, it turns out is pretty easy. I really like the approach that [SociableWeaver](https://github.com/NicholasBellucci/SociableWeaver) takes, leveraging Swift's function builders to let you build a type-safe directly in Swift. The second problem was a bit fiddlier. I knew that I had to make a `POST` request, and I knew the endpoint that was being hit, and through some trial and error (along a friend's help[^1]), I was able to start making GraphQL requests without any external libraries needed.
+I broke the problem I saw down into two smaller problems, request-generation and request-making. Generating a request, especially in Swift, it turns out is pretty easy. I really like the approach that [SociableWeaver](https://github.com/NicholasBellucci/SociableWeaver) takes, leveraging Swift's function builders to let you build a type-safe directly in Swift. The second problem was a bit fiddlier. I knew that I had to make a `POST` request, and I knew the endpoint that was being hit, and through some trial and error (and a friend's help[^1]), I was able to start making GraphQL requests without any external libraries needed.
 
 ```swift
 extension URLSession {
