@@ -21,6 +21,8 @@ order: 3
 
 ### 2021
 
+- 🌟 [Working in Public: The Making and Maintenance of Open Source Software](https://smile.amazon.com/exec/obidos/ASIN/0578675862/innerselfcom)
+- 🌟 [The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy](https://smile.amazon.com/exec/obidos/ASIN/1541736184/innerselfcom)
 - [This Changes Everything: Capitalism vs. The Climate](https://smile.amazon.com/exec/obidos/ASIN/1451697392/innerselfcom)
 
 ### 2020
