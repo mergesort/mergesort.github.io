@@ -85,7 +85,7 @@ That looks a lot cleaner, and our responsibilities seem a lot more well-divided.
 
 ![A text message saying "Take that multi-million dollar company, not gonna use your so called library."]({{ site.url }}/assets/img/not-using-apollo.jpg)
 
-Is there room for tools like Apollo? Absolutely! I'm not going to pretend that my dozen lines of code replaces the value that a multimillion dollar company provides. (I'll only make sick jokes about it.) But before importing a library like Apollo, any library really, it's worth asking yourself whether you need a big solution for a small probelm. Or maybe question the better question to ask before that is, have you really understood the problem you're trying to solve?
+Is there room for tools like Apollo? Absolutely! I'm not going to pretend that my dozen lines of code replaces the value that a multimillion dollar company provides. (I'll only make sick jokes about it.) But before importing a library like Apollo, any library really, it's worth asking yourself whether you need a big solution for a small problem. Or maybe question the better question to ask before that is, have you really understood the problem you're trying to solve?
 
 But we still haven't really answered where exactly we should put the U in GraphQL. (I say after the Q since Q is almost always followed by U, but I'm [open to feedback](https://twitter.com/mergesort) on that or the rest of this post.)
 
