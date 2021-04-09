@@ -6,7 +6,7 @@ tags: [society, industry, featured]
 
 For a long time I've told people that I love technology and all it enables, yet dislike the technology industry and working in tech. People often find my statement hard to rectify, probably because they see the two as inextricably linked. Technology is an ever-changing process, one that pushes humanity forward through the application of science, and the industry has become (and arguably always has been) about capitalizing those mechanisms of change.
 
-The tech world today is about capitalizing those innovations at an unprecedented rate. That's why the tech sector is the most dominant and rapidly advancing industry in history. That's also what makes it so difficult to express the discord between the progress people see and the disproportionate impact it has. People see the progress of technology in real time, and they only see the moral and ethical issues with the rapid advancement of technology after that technology has established a role in people's lives. No one had any problems with Facebook in 2012, but they sure do now.
+The tech world today is capitalizing those innovations at an unprecedented rate. That's why the tech sector is the most dominant and rapidly advancing industry in history. That's also what makes it so difficult to express the discord between the progress people see and the disproportionate impact it has. People see the progress of technology in real time, and they only see the moral and ethical issues with the rapid advancement of technology after that technology has established a role in people's lives. No one had any problems with Facebook in 2012, but they sure do now.
 
 ### Why Is This Happening?
 
