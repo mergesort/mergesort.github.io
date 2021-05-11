@@ -15,6 +15,8 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- ⭐️ [Slack](https://fs.blog/2021/05/slack/), [notes](https://twitter.com/mergesort/status/1391435483893452801?s=21)
+- [The Ponzi Career](https://www.drorpoleg.com/the-ponzi-career)
 - [The Twilight of the Ethical Consumer](https://atmos.earth/ethical-consumerism)
 - ⭐️ [The Michael Scott Theory of Social Class](https://alexdanco.com/2021/01/22/the-michael-scott-theory-of-social-class/)
 - ⭐️ [Paradigm shifts for the decentralized Web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
