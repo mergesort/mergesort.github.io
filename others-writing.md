@@ -15,14 +15,19 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- [How To Be Polite](https://medium.com/s/story/how-to-be-polite-9bf1e69e888c)
 - ⭐️ [Slack](https://fs.blog/2021/05/slack/), [notes](https://twitter.com/mergesort/status/1391435483893452801?s=21)
+- ⭐️ [How Will You Measure Your Life](https://hbr.org/2010/07/how-will-you-measure-your-life), [notes](https://twitter.com/mergesort/status/1393944871921229824)
 - [The Ponzi Career](https://www.drorpoleg.com/the-ponzi-career)
 - [The Twilight of the Ethical Consumer](https://atmos.earth/ethical-consumerism)
+- [How To Hire Senior Developers: Give Them More Autonomy](https://hiringengineersbook.com/post/autonomy/)
+- [Programming Is Hard](https://dorinlazar.ro/2021-02-programming-is-hard)
 - ⭐️ [The Michael Scott Theory of Social Class](https://alexdanco.com/2021/01/22/the-michael-scott-theory-of-social-class/)
 - ⭐️ [Paradigm shifts for the decentralized Web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/)
 - ⭐️ [The Clubhouse App and the Rise of Oral Psychodynamics](https://zeynep.substack.com/p/the-clubhouse-app-and-the-rise-of)
 - ⭐️ [What Makes A Great Friend?](https://leowid.com/what-makes-a-great-friend-9-things-that-my-best-friend-matthias-does)
 - [The High Price Of Mistrust](https://fs.blog/2021/01/mistrust/)
+- ⭐️ [The BuzzFeedification of Mental Health](https://mentalhellth.substack.com/p/the-buzzfeed-ification-of-mental), [notes](https://twitter.com/mergesort/status/1393933538890850304)
 - [How Hard Should I Push Myself](https://every.to/superorganizers/how-hard-should-i-push-myself)
 - [Increasing Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
 - [Who Owns The Benefit? The Free Market As Full Communism](https://theanarchistlibrary.org/library/kevin-carson-who-owns-the-benefit-the-free-market-as-full-communism)
