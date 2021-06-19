@@ -21,6 +21,8 @@ order: 3
 
 ### 2021
 
+- 🌟 [The Scout Mindset](https://smile.amazon.com/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556)
+- [Say What You Mean](https://smile.amazon.com/Say-What-You-Mean-Communication/dp/161180583X)
 - [The Lessons of History](https://smile.amazon.com/exec/obidos/ASIN/143914995X)
 - 🌟 [Working in Public: The Making and Maintenance of Open Source Software](https://smile.amazon.com/exec/obidos/ASIN/0578675862)
 - 🌟 [The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy](https://smile.amazon.com/exec/obidos/ASIN/1541736184)
