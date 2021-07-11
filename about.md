@@ -59,7 +59,7 @@ By now you've figured out my secret, I like quotes. So I'll leave you with a few
 > The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.
 ><br> — F. Scott Fitzgerald
 
-> I am no longer accepting the things I cannot change. I am changing the things I cannot accept.
-><br> — Angela Davis
+> I’m interested in things that could only have come from my head, that grow out of some strange interest that I have a history with.
+><br> — Omar Rizwan
 
 [^1]: If you have any hesitations about taking up my time, you can ease your guilt by donating to a [great cause](http://www.blackgirlscode.com/).
