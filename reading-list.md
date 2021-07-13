@@ -21,6 +21,7 @@ order: 3
 
 ### 2021
 
+- 🌟 [Healing Trauma: A Pioneering Program for Restoring the Wisdom of Your Body](https://smile.amazon.com/Healing-Trauma-Pioneering-Program-Restoring/dp/159179658X)
 - 🌟 [The Scout Mindset](https://smile.amazon.com/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556)
 - [Say What You Mean](https://smile.amazon.com/Say-What-You-Mean-Communication/dp/161180583X)
 - [The Lessons of History](https://smile.amazon.com/exec/obidos/ASIN/143914995X)
